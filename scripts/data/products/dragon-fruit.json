@@ -1,0 +1,861 @@
+{
+  "id": 11354393749,
+  "title": "Dragon Fruit",
+  "handle": "dragon-fruit",
+  "description": "<!-- VisiSmart Code - DO NOT MODIFY--><script type=\"text/javascript\" async=\"\">window.visiopt_code=window.visiopt_code||(function(){var visi_wid=755,visi_pid=3,visi_flicker_time=4000,visi_flicker_element='html',c=false,d=document,visi_fn={begin:function(){var a=d.getElementById('visi_flicker');if(!a){var a=d.createElement('style'),b=visi_flicker_element?visi_flicker_element+'{opacity:0!important;background:none!important;}':'',h=d.getElementsByTagName('head')[0];a.setAttribute('id','visi_flicker');a.setAttribute('type','text/css');if(a.styleSheet){a.styleSheet.cssText=b;}else{a.appendChild(d.createTextNode(b));}h.appendChild(a);}},complete:function(){c=true;var a=d.getElementById('visi_flicker');if(a){a.parentNode.removeChild(a);}},completed:function(){return c;},pack:function(a){var b=d.createElement('script');b.src=a;b.type='text/javascript';b.innerText;b.onerror=function(){visi_fn.complete();};d.getElementsByTagName('head')[0].appendChild(b);},init:function(){visi_fn.begin();setTimeout(function(){visi_fn.complete()},visi_flicker_time);this.pack('https://visiopt.com/client/js_test/test.'+visi_wid+'.'+visi_pid+'.js');return true;}};window.visiopt_code_status=visi_fn.init();return visi_fn;}());</script><!--End Of VisiSmart Code -->\n<div class=\"description-tabs tabs\">\n<div class=\"tabs__nav\">\n<div class=\"tabs__nav-item tabs__nav-item--active\">Description</div>\n<div class=\"tabs__nav-item\">Ingredients</div>\n<div class=\"tabs__nav-item\">Nutrition Facts</div>\n</div>\n<div class=\"tabs__items-list\">\n<div class=\"tabs__item tabs__item--active\">\n<p>Pleasantly sweet and refreshing – every sip whisks you to the tropics. Beneath the Dragon Fruit’s bright and scaly exterior, you’ll find a delicious superfruit rich with antioxidants and magnesium.</p>\n</div>\n<div class=\"tabs__item\">\n<p>Filtered Water, Organic Agave, Organic Coconut Water, Organic Raspberry Concentrate, Organic Lemon Juice, Organic Dragon Fruit Flavor, Organic Fruit Punch Flavor, Sea Salt, <meta charset=\"utf-8\"><span data-mce-fragment=\"1\">Natural Flavor from Non-GMO Plants, Purple Carrot, Organic Monk Fruit Flavor, Organic Amla Fruit, </span>Organic Maqui Berries, Organic Manuka Honey, Organic Ginseng, Organic Maca. <b>Contains: Coconut.</b><span style=\"text-decoration: underline;\"><br><br>Note</span>: Sedimentation is normal with natural products. </p>\n</div>\n<div class=\"tabs__item\"><img alt=\"\" src=\"https://cdn.shopify.com/s/files/1/2227/4617/files/Berri_Fit_Nutrition_Facts_480x480.png?v=1708980037\"></div>\n</div>\n</div>",
+  "published_at": "2017-07-29T00:56:26-07:00",
+  "created_at": "2017-07-29T00:56:29-07:00",
+  "vendor": "Berri Pro",
+  "type": "Beverage",
+  "tags": [
+    "Berri Fit"
+  ],
+  "price": 1499,
+  "price_min": 1499,
+  "price_max": 7199,
+  "available": true,
+  "price_varies": true,
+  "compare_at_price": 2249,
+  "compare_at_price_min": 2249,
+  "compare_at_price_max": 8994,
+  "compare_at_price_varies": true,
+  "variants": [
+    {
+      "id": 48372106133,
+      "title": "4 Pack - Lightly active",
+      "option1": "4 Pack - Lightly active",
+      "option2": null,
+      "option3": null,
+      "sku": "4pkBFDragon",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "name": "Dragon Fruit - 4 Pack - Lightly active",
+      "public_title": "4 Pack - Lightly active",
+      "options": [
+        "4 Pack - Lightly active"
+      ],
+      "price": 1499,
+      "weight": 2177,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "B07238WLLR",
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": [
+        {
+          "price_adjustments": [
+            {
+              "position": 1,
+              "price": 1349
+            }
+          ],
+          "price": 1349,
+          "compare_at_price": 1499,
+          "per_delivery_price": 1349,
+          "selling_plan_id": 33917141192,
+          "selling_plan_group_id": "be5676770f7a2a402f39044871b9ae3b86c22e15"
+        },
+        {
+          "price_adjustments": [
+            {
+              "position": 1,
+              "price": 1349
+            }
+          ],
+          "price": 1349,
+          "compare_at_price": 1499,
+          "per_delivery_price": 1349,
+          "selling_plan_id": 33917173960,
+          "selling_plan_group_id": "be5676770f7a2a402f39044871b9ae3b86c22e15"
+        },
+        {
+          "price_adjustments": [
+            {
+              "position": 1,
+              "price": 1349
+            }
+          ],
+          "price": 1349,
+          "compare_at_price": 1499,
+          "per_delivery_price": 1349,
+          "selling_plan_id": 33917206728,
+          "selling_plan_group_id": "be5676770f7a2a402f39044871b9ae3b86c22e15"
+        },
+        {
+          "price_adjustments": [
+            {
+              "position": 1,
+              "price": 1349
+            }
+          ],
+          "price": 1349,
+          "compare_at_price": 1499,
+          "per_delivery_price": 1349,
+          "selling_plan_id": 33917239496,
+          "selling_plan_group_id": "be5676770f7a2a402f39044871b9ae3b86c22e15"
+        },
+        {
+          "price_adjustments": [
+            {
+              "position": 1,
+              "price": 1349
+            }
+          ],
+          "price": 1349,
+          "compare_at_price": 1499,
+          "per_delivery_price": 1349,
+          "selling_plan_id": 33917272264,
+          "selling_plan_group_id": "be5676770f7a2a402f39044871b9ae3b86c22e15"
+        },
+        {
+          "price_adjustments": [
+            {
+              "position": 1,
+              "price": 1349
+            }
+          ],
+          "price": 1349,
+          "compare_at_price": 1499,
+          "per_delivery_price": 1349,
+          "selling_plan_id": 33917305032,
+          "selling_plan_group_id": "be5676770f7a2a402f39044871b9ae3b86c22e15"
+        },
+        {
+          "price_adjustments": [
+            {
+              "position": 1,
+              "price": 1349
+            }
+          ],
+          "price": 1349,
+          "compare_at_price": 1499,
+          "per_delivery_price": 1349,
+          "selling_plan_id": 33917337800,
+          "selling_plan_group_id": "be5676770f7a2a402f39044871b9ae3b86c22e15"
+        },
+        {
+          "price_adjustments": [
+            {
+              "position": 1,
+              "price": 1349
+            }
+          ],
+          "price": 1349,
+          "compare_at_price": 1499,
+          "per_delivery_price": 1349,
+          "selling_plan_id": 33917370568,
+          "selling_plan_group_id": "be5676770f7a2a402f39044871b9ae3b86c22e15"
+        }
+      ]
+    },
+    {
+      "id": 49309546773,
+      "title": "6 Pack - Moderately active",
+      "option1": "6 Pack - Moderately active",
+      "option2": null,
+      "option3": null,
+      "sku": "6pkBFDragon",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "name": "Dragon Fruit - 6 Pack - Moderately active",
+      "public_title": "6 Pack - Moderately active",
+      "options": [
+        "6 Pack - Moderately active"
+      ],
+      "price": 2199,
+      "weight": 3266,
+      "compare_at_price": 2249,
+      "inventory_management": "shopify",
+      "barcode": "B07238WLLR",
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": [
+        {
+          "price_adjustments": [
+            {
+              "position": 1,
+              "price": 1979
+            }
+          ],
+          "price": 1979,
+          "compare_at_price": 2199,
+          "per_delivery_price": 1979,
+          "selling_plan_id": 33917141192,
+          "selling_plan_group_id": "be5676770f7a2a402f39044871b9ae3b86c22e15"
+        },
+        {
+          "price_adjustments": [
+            {
+              "position": 1,
+              "price": 1979
+            }
+          ],
+          "price": 1979,
+          "compare_at_price": 2199,
+          "per_delivery_price": 1979,
+          "selling_plan_id": 33917173960,
+          "selling_plan_group_id": "be5676770f7a2a402f39044871b9ae3b86c22e15"
+        },
+        {
+          "price_adjustments": [
+            {
+              "position": 1,
+              "price": 1979
+            }
+          ],
+          "price": 1979,
+          "compare_at_price": 2199,
+          "per_delivery_price": 1979,
+          "selling_plan_id": 33917206728,
+          "selling_plan_group_id": "be5676770f7a2a402f39044871b9ae3b86c22e15"
+        },
+        {
+          "price_adjustments": [
+            {
+              "position": 1,
+              "price": 1979
+            }
+          ],
+          "price": 1979,
+          "compare_at_price": 2199,
+          "per_delivery_price": 1979,
+          "selling_plan_id": 33917239496,
+          "selling_plan_group_id": "be5676770f7a2a402f39044871b9ae3b86c22e15"
+        },
+        {
+          "price_adjustments": [
+            {
+              "position": 1,
+              "price": 1979
+            }
+          ],
+          "price": 1979,
+          "compare_at_price": 2199,
+          "per_delivery_price": 1979,
+          "selling_plan_id": 33917272264,
+          "selling_plan_group_id": "be5676770f7a2a402f39044871b9ae3b86c22e15"
+        },
+        {
+          "price_adjustments": [
+            {
+              "position": 1,
+              "price": 1979
+            }
+          ],
+          "price": 1979,
+          "compare_at_price": 2199,
+          "per_delivery_price": 1979,
+          "selling_plan_id": 33917305032,
+          "selling_plan_group_id": "be5676770f7a2a402f39044871b9ae3b86c22e15"
+        },
+        {
+          "price_adjustments": [
+            {
+              "position": 1,
+              "price": 1979
+            }
+          ],
+          "price": 1979,
+          "compare_at_price": 2199,
+          "per_delivery_price": 1979,
+          "selling_plan_id": 33917337800,
+          "selling_plan_group_id": "be5676770f7a2a402f39044871b9ae3b86c22e15"
+        },
+        {
+          "price_adjustments": [
+            {
+              "position": 1,
+              "price": 1979
+            }
+          ],
+          "price": 1979,
+          "compare_at_price": 2199,
+          "per_delivery_price": 1979,
+          "selling_plan_id": 33917370568,
+          "selling_plan_group_id": "be5676770f7a2a402f39044871b9ae3b86c22e15"
+        }
+      ]
+    },
+    {
+      "id": 49309546901,
+      "title": "12 Pack - Active",
+      "option1": "12 Pack - Active",
+      "option2": null,
+      "option3": null,
+      "sku": "12pkBFDragon",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "name": "Dragon Fruit - 12 Pack - Active",
+      "public_title": "12 Pack - Active",
+      "options": [
+        "12 Pack - Active"
+      ],
+      "price": 3999,
+      "weight": 6532,
+      "compare_at_price": 4497,
+      "inventory_management": "shopify",
+      "barcode": "10866890000103",
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": [
+        {
+          "price_adjustments": [
+            {
+              "position": 1,
+              "price": 3599
+            }
+          ],
+          "price": 3599,
+          "compare_at_price": 3999,
+          "per_delivery_price": 3599,
+          "selling_plan_id": 33917141192,
+          "selling_plan_group_id": "be5676770f7a2a402f39044871b9ae3b86c22e15"
+        },
+        {
+          "price_adjustments": [
+            {
+              "position": 1,
+              "price": 3599
+            }
+          ],
+          "price": 3599,
+          "compare_at_price": 3999,
+          "per_delivery_price": 3599,
+          "selling_plan_id": 33917173960,
+          "selling_plan_group_id": "be5676770f7a2a402f39044871b9ae3b86c22e15"
+        },
+        {
+          "price_adjustments": [
+            {
+              "position": 1,
+              "price": 3599
+            }
+          ],
+          "price": 3599,
+          "compare_at_price": 3999,
+          "per_delivery_price": 3599,
+          "selling_plan_id": 33917206728,
+          "selling_plan_group_id": "be5676770f7a2a402f39044871b9ae3b86c22e15"
+        },
+        {
+          "price_adjustments": [
+            {
+              "position": 1,
+              "price": 3599
+            }
+          ],
+          "price": 3599,
+          "compare_at_price": 3999,
+          "per_delivery_price": 3599,
+          "selling_plan_id": 33917239496,
+          "selling_plan_group_id": "be5676770f7a2a402f39044871b9ae3b86c22e15"
+        },
+        {
+          "price_adjustments": [
+            {
+              "position": 1,
+              "price": 3599
+            }
+          ],
+          "price": 3599,
+          "compare_at_price": 3999,
+          "per_delivery_price": 3599,
+          "selling_plan_id": 33917272264,
+          "selling_plan_group_id": "be5676770f7a2a402f39044871b9ae3b86c22e15"
+        },
+        {
+          "price_adjustments": [
+            {
+              "position": 1,
+              "price": 3599
+            }
+          ],
+          "price": 3599,
+          "compare_at_price": 3999,
+          "per_delivery_price": 3599,
+          "selling_plan_id": 33917305032,
+          "selling_plan_group_id": "be5676770f7a2a402f39044871b9ae3b86c22e15"
+        },
+        {
+          "price_adjustments": [
+            {
+              "position": 1,
+              "price": 3599
+            }
+          ],
+          "price": 3599,
+          "compare_at_price": 3999,
+          "per_delivery_price": 3599,
+          "selling_plan_id": 33917337800,
+          "selling_plan_group_id": "be5676770f7a2a402f39044871b9ae3b86c22e15"
+        },
+        {
+          "price_adjustments": [
+            {
+              "position": 1,
+              "price": 3599
+            }
+          ],
+          "price": 3599,
+          "compare_at_price": 3999,
+          "per_delivery_price": 3599,
+          "selling_plan_id": 33917370568,
+          "selling_plan_group_id": "be5676770f7a2a402f39044871b9ae3b86c22e15"
+        }
+      ]
+    },
+    {
+      "id": 42107741012168,
+      "title": "24 Pack - Very active",
+      "option1": "24 Pack - Very active",
+      "option2": null,
+      "option3": null,
+      "sku": "24pkBFDragon",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "name": "Dragon Fruit - 24 Pack - Very active",
+      "public_title": "24 Pack - Very active",
+      "options": [
+        "24 Pack - Very active"
+      ],
+      "price": 7199,
+      "weight": 13063,
+      "compare_at_price": 8994,
+      "inventory_management": "shopify",
+      "barcode": null,
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": [
+        {
+          "price_adjustments": [
+            {
+              "position": 1,
+              "price": 6479
+            }
+          ],
+          "price": 6479,
+          "compare_at_price": 7199,
+          "per_delivery_price": 6479,
+          "selling_plan_id": 33917141192,
+          "selling_plan_group_id": "be5676770f7a2a402f39044871b9ae3b86c22e15"
+        },
+        {
+          "price_adjustments": [
+            {
+              "position": 1,
+              "price": 6479
+            }
+          ],
+          "price": 6479,
+          "compare_at_price": 7199,
+          "per_delivery_price": 6479,
+          "selling_plan_id": 33917173960,
+          "selling_plan_group_id": "be5676770f7a2a402f39044871b9ae3b86c22e15"
+        },
+        {
+          "price_adjustments": [
+            {
+              "position": 1,
+              "price": 6479
+            }
+          ],
+          "price": 6479,
+          "compare_at_price": 7199,
+          "per_delivery_price": 6479,
+          "selling_plan_id": 33917206728,
+          "selling_plan_group_id": "be5676770f7a2a402f39044871b9ae3b86c22e15"
+        },
+        {
+          "price_adjustments": [
+            {
+              "position": 1,
+              "price": 6479
+            }
+          ],
+          "price": 6479,
+          "compare_at_price": 7199,
+          "per_delivery_price": 6479,
+          "selling_plan_id": 33917239496,
+          "selling_plan_group_id": "be5676770f7a2a402f39044871b9ae3b86c22e15"
+        },
+        {
+          "price_adjustments": [
+            {
+              "position": 1,
+              "price": 6479
+            }
+          ],
+          "price": 6479,
+          "compare_at_price": 7199,
+          "per_delivery_price": 6479,
+          "selling_plan_id": 33917272264,
+          "selling_plan_group_id": "be5676770f7a2a402f39044871b9ae3b86c22e15"
+        },
+        {
+          "price_adjustments": [
+            {
+              "position": 1,
+              "price": 6479
+            }
+          ],
+          "price": 6479,
+          "compare_at_price": 7199,
+          "per_delivery_price": 6479,
+          "selling_plan_id": 33917305032,
+          "selling_plan_group_id": "be5676770f7a2a402f39044871b9ae3b86c22e15"
+        },
+        {
+          "price_adjustments": [
+            {
+              "position": 1,
+              "price": 6479
+            }
+          ],
+          "price": 6479,
+          "compare_at_price": 7199,
+          "per_delivery_price": 6479,
+          "selling_plan_id": 33917337800,
+          "selling_plan_group_id": "be5676770f7a2a402f39044871b9ae3b86c22e15"
+        },
+        {
+          "price_adjustments": [
+            {
+              "position": 1,
+              "price": 6479
+            }
+          ],
+          "price": 6479,
+          "compare_at_price": 7199,
+          "per_delivery_price": 6479,
+          "selling_plan_id": 33917370568,
+          "selling_plan_group_id": "be5676770f7a2a402f39044871b9ae3b86c22e15"
+        }
+      ]
+    }
+  ],
+  "images": [
+    "//cdn.shopify.com/s/files/1/2227/4617/files/dragonfruitbf_d7ad55c7-7513-4b0d-b60a-075f46595535.png?v=1782379848",
+    "//cdn.shopify.com/s/files/1/2227/4617/files/e-Berrifit_3_8_23_Kaykreative-135-sq_06b43eae-3e0f-412a-8575-ddfac365efad.jpg?v=1699897627",
+    "//cdn.shopify.com/s/files/1/2227/4617/files/processed-E387F81D-41E2-4628-82FA-EA9D4299F548-32A9FA8C-C726-4917-8EDB-09A2AA9995B8.jpg?v=1699897627",
+    "//cdn.shopify.com/s/files/1/2227/4617/files/e-Berrifit_3_8_23_Kaykreative-116-sq.jpg?v=1699897627",
+    "//cdn.shopify.com/s/files/1/2227/4617/files/e-Berrifit_3_8_23_Kaykreative-205-sq.jpg?v=1699897627"
+  ],
+  "featured_image": "//cdn.shopify.com/s/files/1/2227/4617/files/dragonfruitbf_d7ad55c7-7513-4b0d-b60a-075f46595535.png?v=1782379848",
+  "options": [
+    {
+      "name": "Count",
+      "position": 1,
+      "values": [
+        "4 Pack - Lightly active",
+        "6 Pack - Moderately active",
+        "12 Pack - Active",
+        "24 Pack - Very active"
+      ]
+    }
+  ],
+  "url": "/products/dragon-fruit",
+  "media": [
+    {
+      "alt": null,
+      "id": 30935758438600,
+      "position": 1,
+      "preview_image": {
+        "aspect_ratio": 1,
+        "height": 1080,
+        "width": 1080,
+        "src": "https://cdn.shopify.com/s/files/1/2227/4617/files/dragonfruitbf_d7ad55c7-7513-4b0d-b60a-075f46595535.png?v=1782379848"
+      },
+      "aspect_ratio": 1,
+      "height": 1080,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/2227/4617/files/dragonfruitbf_d7ad55c7-7513-4b0d-b60a-075f46595535.png?v=1782379848",
+      "width": 1080
+    },
+    {
+      "alt": "BerryiFit Being Enjoyed after workout",
+      "id": 26540734841032,
+      "position": 2,
+      "preview_image": {
+        "aspect_ratio": 1,
+        "height": 800,
+        "width": 800,
+        "src": "https://cdn.shopify.com/s/files/1/2227/4617/files/e-Berrifit_3_8_23_Kaykreative-135-sq_06b43eae-3e0f-412a-8575-ddfac365efad.jpg?v=1699897627"
+      },
+      "aspect_ratio": 1,
+      "height": 800,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/2227/4617/files/e-Berrifit_3_8_23_Kaykreative-135-sq_06b43eae-3e0f-412a-8575-ddfac365efad.jpg?v=1699897627",
+      "width": 800
+    },
+    {
+      "alt": "young boy enjoying berri fit",
+      "id": 27007795658952,
+      "position": 3,
+      "preview_image": {
+        "aspect_ratio": 0.994,
+        "height": 1888,
+        "width": 1877,
+        "src": "https://cdn.shopify.com/s/files/1/2227/4617/files/processed-E387F81D-41E2-4628-82FA-EA9D4299F548-32A9FA8C-C726-4917-8EDB-09A2AA9995B8.jpg?v=1699897627"
+      },
+      "aspect_ratio": 0.994,
+      "height": 1888,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/2227/4617/files/processed-E387F81D-41E2-4628-82FA-EA9D4299F548-32A9FA8C-C726-4917-8EDB-09A2AA9995B8.jpg?v=1699897627",
+      "width": 1877
+    },
+    {
+      "alt": "sports drink at the gym",
+      "id": 26540738019528,
+      "position": 4,
+      "preview_image": {
+        "aspect_ratio": 1,
+        "height": 800,
+        "width": 800,
+        "src": "https://cdn.shopify.com/s/files/1/2227/4617/files/e-Berrifit_3_8_23_Kaykreative-116-sq.jpg?v=1699897627"
+      },
+      "aspect_ratio": 1,
+      "height": 800,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/2227/4617/files/e-Berrifit_3_8_23_Kaykreative-116-sq.jpg?v=1699897627",
+      "width": 800
+    },
+    {
+      "alt": "woman with sports drink after a run",
+      "id": 26540749947080,
+      "position": 5,
+      "preview_image": {
+        "aspect_ratio": 1,
+        "height": 800,
+        "width": 800,
+        "src": "https://cdn.shopify.com/s/files/1/2227/4617/files/e-Berrifit_3_8_23_Kaykreative-205-sq.jpg?v=1699897627"
+      },
+      "aspect_ratio": 1,
+      "height": 800,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/2227/4617/files/e-Berrifit_3_8_23_Kaykreative-205-sq.jpg?v=1699897627",
+      "width": 800
+    }
+  ],
+  "requires_selling_plan": false,
+  "selling_plan_groups": [
+    {
+      "id": "be5676770f7a2a402f39044871b9ae3b86c22e15",
+      "name": "Subscribe and save",
+      "options": [
+        {
+          "name": "Delivery frequency",
+          "position": 1,
+          "values": [
+            "1 Week",
+            "2 Weeks",
+            "3 Weeks",
+            "4 Weeks",
+            "5 Weeks",
+            "6 Weeks",
+            "7 Weeks",
+            "8 Weeks"
+          ]
+        }
+      ],
+      "selling_plans": [
+        {
+          "id": 33917141192,
+          "name": "1 Week",
+          "description": null,
+          "options": [
+            {
+              "name": "Delivery frequency",
+              "position": 1,
+              "value": "1 Week"
+            }
+          ],
+          "recurring_deliveries": true,
+          "price_adjustments": [
+            {
+              "order_count": null,
+              "position": 1,
+              "value_type": "percentage",
+              "value": 10
+            }
+          ]
+        },
+        {
+          "id": 33917173960,
+          "name": "2 Weeks",
+          "description": null,
+          "options": [
+            {
+              "name": "Delivery frequency",
+              "position": 1,
+              "value": "2 Weeks"
+            }
+          ],
+          "recurring_deliveries": true,
+          "price_adjustments": [
+            {
+              "order_count": null,
+              "position": 1,
+              "value_type": "percentage",
+              "value": 10
+            }
+          ]
+        },
+        {
+          "id": 33917206728,
+          "name": "3 Weeks",
+          "description": null,
+          "options": [
+            {
+              "name": "Delivery frequency",
+              "position": 1,
+              "value": "3 Weeks"
+            }
+          ],
+          "recurring_deliveries": true,
+          "price_adjustments": [
+            {
+              "order_count": null,
+              "position": 1,
+              "value_type": "percentage",
+              "value": 10
+            }
+          ]
+        },
+        {
+          "id": 33917239496,
+          "name": "4 Weeks",
+          "description": null,
+          "options": [
+            {
+              "name": "Delivery frequency",
+              "position": 1,
+              "value": "4 Weeks"
+            }
+          ],
+          "recurring_deliveries": true,
+          "price_adjustments": [
+            {
+              "order_count": null,
+              "position": 1,
+              "value_type": "percentage",
+              "value": 10
+            }
+          ]
+        },
+        {
+          "id": 33917272264,
+          "name": "5 Weeks",
+          "description": null,
+          "options": [
+            {
+              "name": "Delivery frequency",
+              "position": 1,
+              "value": "5 Weeks"
+            }
+          ],
+          "recurring_deliveries": true,
+          "price_adjustments": [
+            {
+              "order_count": null,
+              "position": 1,
+              "value_type": "percentage",
+              "value": 10
+            }
+          ]
+        },
+        {
+          "id": 33917305032,
+          "name": "6 Weeks",
+          "description": null,
+          "options": [
+            {
+              "name": "Delivery frequency",
+              "position": 1,
+              "value": "6 Weeks"
+            }
+          ],
+          "recurring_deliveries": true,
+          "price_adjustments": [
+            {
+              "order_count": null,
+              "position": 1,
+              "value_type": "percentage",
+              "value": 10
+            }
+          ]
+        },
+        {
+          "id": 33917337800,
+          "name": "7 Weeks",
+          "description": null,
+          "options": [
+            {
+              "name": "Delivery frequency",
+              "position": 1,
+              "value": "7 Weeks"
+            }
+          ],
+          "recurring_deliveries": true,
+          "price_adjustments": [
+            {
+              "order_count": null,
+              "position": 1,
+              "value_type": "percentage",
+              "value": 10
+            }
+          ]
+        },
+        {
+          "id": 33917370568,
+          "name": "8 Weeks",
+          "description": null,
+          "options": [
+            {
+              "name": "Delivery frequency",
+              "position": 1,
+              "value": "8 Weeks"
+            }
+          ],
+          "recurring_deliveries": true,
+          "price_adjustments": [
+            {
+              "order_count": null,
+              "position": 1,
+              "value_type": "percentage",
+              "value": 10
+            }
+          ]
+        }
+      ],
+      "app_id": "45008"
+    }
+  ]
+}

@@ -1,0 +1,927 @@
+{
+  "id": 8237267681480,
+  "title": "Fruit Punch - 20 oz Size",
+  "handle": "new-fruit-punch-20oz-size",
+  "description": "<div class=\"tabs__nav\">\n<div class=\"tabs__nav-item tabs__nav-item--active\">Description</div>\n<div class=\"tabs__nav-item\">Ingredients</div>\n<div class=\"tabs__nav-item\">Nutrition Facts</div>\n</div>\n<div class=\"tabs__items-list\">\n<div class=\"tabs__item tabs__item--active\">\n<p>Try the sweet, fruity, juicy taste of organic strawberry. Berri Lyte is loaded with powerful nutrients and antioxidants. Made with flavorful ingredients found in nature. Formula proven for effective hydration plus fluid and electrolyte restoration.</p>\n</div>\n<div class=\"tabs__item\">\n<p class=\"p1\">Filtered Water, Organic Agave Nectar, Organic Coconut Water, Organic Fruit Punch Flavor, Organic Lemon Juice Concentrate, Organic Vegetable Glycerin, Sea Salt, Natural Flavors from Plants, Organic Monk Fruit Flavor, Purple Carrot, Organic Amla Fruit, Organic Sweet Potato Juice, Organic Guava, Zinc Gluconate, Organic Maqui Berries. <strong>Contains: Coconut.</strong></p>\n</div>\n</div>",
+  "published_at": "2025-09-02T11:50:03-07:00",
+  "created_at": "2025-09-02T11:35:40-07:00",
+  "vendor": "Berri Pro",
+  "type": "Beverage",
+  "tags": [],
+  "price": 998,
+  "price_min": 998,
+  "price_max": 4788,
+  "available": true,
+  "price_varies": true,
+  "compare_at_price": null,
+  "compare_at_price_min": 0,
+  "compare_at_price_max": 0,
+  "compare_at_price_varies": false,
+  "variants": [
+    {
+      "id": 44753628889288,
+      "title": "2 Pack ($4.99/bottle)",
+      "option1": "2 Pack ($4.99/bottle)",
+      "option2": null,
+      "option3": null,
+      "sku": "2pkBL20Fruit",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "name": "Fruit Punch - 20 oz Size - 2 Pack ($4.99/bottle)",
+      "public_title": "2 Pack ($4.99/bottle)",
+      "options": [
+        "2 Pack ($4.99/bottle)"
+      ],
+      "price": 998,
+      "weight": 3992,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "860012648870",
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": [
+        {
+          "price_adjustments": [
+            {
+              "position": 1,
+              "price": 898
+            }
+          ],
+          "price": 898,
+          "compare_at_price": 998,
+          "per_delivery_price": 898,
+          "selling_plan_id": 33917141192,
+          "selling_plan_group_id": "be5676770f7a2a402f39044871b9ae3b86c22e15"
+        },
+        {
+          "price_adjustments": [
+            {
+              "position": 1,
+              "price": 898
+            }
+          ],
+          "price": 898,
+          "compare_at_price": 998,
+          "per_delivery_price": 898,
+          "selling_plan_id": 33917173960,
+          "selling_plan_group_id": "be5676770f7a2a402f39044871b9ae3b86c22e15"
+        },
+        {
+          "price_adjustments": [
+            {
+              "position": 1,
+              "price": 898
+            }
+          ],
+          "price": 898,
+          "compare_at_price": 998,
+          "per_delivery_price": 898,
+          "selling_plan_id": 33917206728,
+          "selling_plan_group_id": "be5676770f7a2a402f39044871b9ae3b86c22e15"
+        },
+        {
+          "price_adjustments": [
+            {
+              "position": 1,
+              "price": 898
+            }
+          ],
+          "price": 898,
+          "compare_at_price": 998,
+          "per_delivery_price": 898,
+          "selling_plan_id": 33917239496,
+          "selling_plan_group_id": "be5676770f7a2a402f39044871b9ae3b86c22e15"
+        },
+        {
+          "price_adjustments": [
+            {
+              "position": 1,
+              "price": 898
+            }
+          ],
+          "price": 898,
+          "compare_at_price": 998,
+          "per_delivery_price": 898,
+          "selling_plan_id": 33917272264,
+          "selling_plan_group_id": "be5676770f7a2a402f39044871b9ae3b86c22e15"
+        },
+        {
+          "price_adjustments": [
+            {
+              "position": 1,
+              "price": 898
+            }
+          ],
+          "price": 898,
+          "compare_at_price": 998,
+          "per_delivery_price": 898,
+          "selling_plan_id": 33917305032,
+          "selling_plan_group_id": "be5676770f7a2a402f39044871b9ae3b86c22e15"
+        },
+        {
+          "price_adjustments": [
+            {
+              "position": 1,
+              "price": 898
+            }
+          ],
+          "price": 898,
+          "compare_at_price": 998,
+          "per_delivery_price": 898,
+          "selling_plan_id": 33917337800,
+          "selling_plan_group_id": "be5676770f7a2a402f39044871b9ae3b86c22e15"
+        },
+        {
+          "price_adjustments": [
+            {
+              "position": 1,
+              "price": 898
+            }
+          ],
+          "price": 898,
+          "compare_at_price": 998,
+          "per_delivery_price": 898,
+          "selling_plan_id": 33917370568,
+          "selling_plan_group_id": "be5676770f7a2a402f39044871b9ae3b86c22e15"
+        }
+      ]
+    },
+    {
+      "id": 44753628922056,
+      "title": "4 Pack ($4.69/bottle)",
+      "option1": "4 Pack ($4.69/bottle)",
+      "option2": null,
+      "option3": null,
+      "sku": "4pkBL20Fruit",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "name": "Fruit Punch - 20 oz Size - 4 Pack ($4.69/bottle)",
+      "public_title": "4 Pack ($4.69/bottle)",
+      "options": [
+        "4 Pack ($4.69/bottle)"
+      ],
+      "price": 1876,
+      "weight": 3992,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": null,
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": [
+        {
+          "price_adjustments": [
+            {
+              "position": 1,
+              "price": 1688
+            }
+          ],
+          "price": 1688,
+          "compare_at_price": 1876,
+          "per_delivery_price": 1688,
+          "selling_plan_id": 33917141192,
+          "selling_plan_group_id": "be5676770f7a2a402f39044871b9ae3b86c22e15"
+        },
+        {
+          "price_adjustments": [
+            {
+              "position": 1,
+              "price": 1688
+            }
+          ],
+          "price": 1688,
+          "compare_at_price": 1876,
+          "per_delivery_price": 1688,
+          "selling_plan_id": 33917173960,
+          "selling_plan_group_id": "be5676770f7a2a402f39044871b9ae3b86c22e15"
+        },
+        {
+          "price_adjustments": [
+            {
+              "position": 1,
+              "price": 1688
+            }
+          ],
+          "price": 1688,
+          "compare_at_price": 1876,
+          "per_delivery_price": 1688,
+          "selling_plan_id": 33917206728,
+          "selling_plan_group_id": "be5676770f7a2a402f39044871b9ae3b86c22e15"
+        },
+        {
+          "price_adjustments": [
+            {
+              "position": 1,
+              "price": 1688
+            }
+          ],
+          "price": 1688,
+          "compare_at_price": 1876,
+          "per_delivery_price": 1688,
+          "selling_plan_id": 33917239496,
+          "selling_plan_group_id": "be5676770f7a2a402f39044871b9ae3b86c22e15"
+        },
+        {
+          "price_adjustments": [
+            {
+              "position": 1,
+              "price": 1688
+            }
+          ],
+          "price": 1688,
+          "compare_at_price": 1876,
+          "per_delivery_price": 1688,
+          "selling_plan_id": 33917272264,
+          "selling_plan_group_id": "be5676770f7a2a402f39044871b9ae3b86c22e15"
+        },
+        {
+          "price_adjustments": [
+            {
+              "position": 1,
+              "price": 1688
+            }
+          ],
+          "price": 1688,
+          "compare_at_price": 1876,
+          "per_delivery_price": 1688,
+          "selling_plan_id": 33917305032,
+          "selling_plan_group_id": "be5676770f7a2a402f39044871b9ae3b86c22e15"
+        },
+        {
+          "price_adjustments": [
+            {
+              "position": 1,
+              "price": 1688
+            }
+          ],
+          "price": 1688,
+          "compare_at_price": 1876,
+          "per_delivery_price": 1688,
+          "selling_plan_id": 33917337800,
+          "selling_plan_group_id": "be5676770f7a2a402f39044871b9ae3b86c22e15"
+        },
+        {
+          "price_adjustments": [
+            {
+              "position": 1,
+              "price": 1688
+            }
+          ],
+          "price": 1688,
+          "compare_at_price": 1876,
+          "per_delivery_price": 1688,
+          "selling_plan_id": 33917370568,
+          "selling_plan_group_id": "be5676770f7a2a402f39044871b9ae3b86c22e15"
+        }
+      ]
+    },
+    {
+      "id": 44753628954824,
+      "title": "6 Pack ($4.39/bottle)",
+      "option1": "6 Pack ($4.39/bottle)",
+      "option2": null,
+      "option3": null,
+      "sku": "6pkBL20Fruit",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "name": "Fruit Punch - 20 oz Size - 6 Pack ($4.39/bottle)",
+      "public_title": "6 Pack ($4.39/bottle)",
+      "options": [
+        "6 Pack ($4.39/bottle)"
+      ],
+      "price": 2634,
+      "weight": 3992,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": null,
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": [
+        {
+          "price_adjustments": [
+            {
+              "position": 1,
+              "price": 2371
+            }
+          ],
+          "price": 2371,
+          "compare_at_price": 2634,
+          "per_delivery_price": 2371,
+          "selling_plan_id": 33917141192,
+          "selling_plan_group_id": "be5676770f7a2a402f39044871b9ae3b86c22e15"
+        },
+        {
+          "price_adjustments": [
+            {
+              "position": 1,
+              "price": 2371
+            }
+          ],
+          "price": 2371,
+          "compare_at_price": 2634,
+          "per_delivery_price": 2371,
+          "selling_plan_id": 33917173960,
+          "selling_plan_group_id": "be5676770f7a2a402f39044871b9ae3b86c22e15"
+        },
+        {
+          "price_adjustments": [
+            {
+              "position": 1,
+              "price": 2371
+            }
+          ],
+          "price": 2371,
+          "compare_at_price": 2634,
+          "per_delivery_price": 2371,
+          "selling_plan_id": 33917206728,
+          "selling_plan_group_id": "be5676770f7a2a402f39044871b9ae3b86c22e15"
+        },
+        {
+          "price_adjustments": [
+            {
+              "position": 1,
+              "price": 2371
+            }
+          ],
+          "price": 2371,
+          "compare_at_price": 2634,
+          "per_delivery_price": 2371,
+          "selling_plan_id": 33917239496,
+          "selling_plan_group_id": "be5676770f7a2a402f39044871b9ae3b86c22e15"
+        },
+        {
+          "price_adjustments": [
+            {
+              "position": 1,
+              "price": 2371
+            }
+          ],
+          "price": 2371,
+          "compare_at_price": 2634,
+          "per_delivery_price": 2371,
+          "selling_plan_id": 33917272264,
+          "selling_plan_group_id": "be5676770f7a2a402f39044871b9ae3b86c22e15"
+        },
+        {
+          "price_adjustments": [
+            {
+              "position": 1,
+              "price": 2371
+            }
+          ],
+          "price": 2371,
+          "compare_at_price": 2634,
+          "per_delivery_price": 2371,
+          "selling_plan_id": 33917305032,
+          "selling_plan_group_id": "be5676770f7a2a402f39044871b9ae3b86c22e15"
+        },
+        {
+          "price_adjustments": [
+            {
+              "position": 1,
+              "price": 2371
+            }
+          ],
+          "price": 2371,
+          "compare_at_price": 2634,
+          "per_delivery_price": 2371,
+          "selling_plan_id": 33917337800,
+          "selling_plan_group_id": "be5676770f7a2a402f39044871b9ae3b86c22e15"
+        },
+        {
+          "price_adjustments": [
+            {
+              "position": 1,
+              "price": 2371
+            }
+          ],
+          "price": 2371,
+          "compare_at_price": 2634,
+          "per_delivery_price": 2371,
+          "selling_plan_id": 33917370568,
+          "selling_plan_group_id": "be5676770f7a2a402f39044871b9ae3b86c22e15"
+        }
+      ]
+    },
+    {
+      "id": 44753628987592,
+      "title": "12 Pack ($3.99/bottle)",
+      "option1": "12 Pack ($3.99/bottle)",
+      "option2": null,
+      "option3": null,
+      "sku": "12pkBL20Fruit",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "name": "Fruit Punch - 20 oz Size - 12 Pack ($3.99/bottle)",
+      "public_title": "12 Pack ($3.99/bottle)",
+      "options": [
+        "12 Pack ($3.99/bottle)"
+      ],
+      "price": 4788,
+      "weight": 3992,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": null,
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": [
+        {
+          "price_adjustments": [
+            {
+              "position": 1,
+              "price": 4309
+            }
+          ],
+          "price": 4309,
+          "compare_at_price": 4788,
+          "per_delivery_price": 4309,
+          "selling_plan_id": 33917141192,
+          "selling_plan_group_id": "be5676770f7a2a402f39044871b9ae3b86c22e15"
+        },
+        {
+          "price_adjustments": [
+            {
+              "position": 1,
+              "price": 4309
+            }
+          ],
+          "price": 4309,
+          "compare_at_price": 4788,
+          "per_delivery_price": 4309,
+          "selling_plan_id": 33917173960,
+          "selling_plan_group_id": "be5676770f7a2a402f39044871b9ae3b86c22e15"
+        },
+        {
+          "price_adjustments": [
+            {
+              "position": 1,
+              "price": 4309
+            }
+          ],
+          "price": 4309,
+          "compare_at_price": 4788,
+          "per_delivery_price": 4309,
+          "selling_plan_id": 33917206728,
+          "selling_plan_group_id": "be5676770f7a2a402f39044871b9ae3b86c22e15"
+        },
+        {
+          "price_adjustments": [
+            {
+              "position": 1,
+              "price": 4309
+            }
+          ],
+          "price": 4309,
+          "compare_at_price": 4788,
+          "per_delivery_price": 4309,
+          "selling_plan_id": 33917239496,
+          "selling_plan_group_id": "be5676770f7a2a402f39044871b9ae3b86c22e15"
+        },
+        {
+          "price_adjustments": [
+            {
+              "position": 1,
+              "price": 4309
+            }
+          ],
+          "price": 4309,
+          "compare_at_price": 4788,
+          "per_delivery_price": 4309,
+          "selling_plan_id": 33917272264,
+          "selling_plan_group_id": "be5676770f7a2a402f39044871b9ae3b86c22e15"
+        },
+        {
+          "price_adjustments": [
+            {
+              "position": 1,
+              "price": 4309
+            }
+          ],
+          "price": 4309,
+          "compare_at_price": 4788,
+          "per_delivery_price": 4309,
+          "selling_plan_id": 33917305032,
+          "selling_plan_group_id": "be5676770f7a2a402f39044871b9ae3b86c22e15"
+        },
+        {
+          "price_adjustments": [
+            {
+              "position": 1,
+              "price": 4309
+            }
+          ],
+          "price": 4309,
+          "compare_at_price": 4788,
+          "per_delivery_price": 4309,
+          "selling_plan_id": 33917337800,
+          "selling_plan_group_id": "be5676770f7a2a402f39044871b9ae3b86c22e15"
+        },
+        {
+          "price_adjustments": [
+            {
+              "position": 1,
+              "price": 4309
+            }
+          ],
+          "price": 4309,
+          "compare_at_price": 4788,
+          "per_delivery_price": 4309,
+          "selling_plan_id": 33917370568,
+          "selling_plan_group_id": "be5676770f7a2a402f39044871b9ae3b86c22e15"
+        }
+      ]
+    }
+  ],
+  "images": [
+    "//cdn.shopify.com/s/files/1/2227/4617/files/fruit_punch.png?v=1782379591",
+    "//cdn.shopify.com/s/files/1/2227/4617/files/5._fruit_punch_20oz_listing.jpg?v=1756838513",
+    "//cdn.shopify.com/s/files/1/2227/4617/files/Fruit_Punch_comparison.png?v=1756838683",
+    "//cdn.shopify.com/s/files/1/2227/4617/files/16.png?v=1756838683",
+    "//cdn.shopify.com/s/files/1/2227/4617/files/Fruit_2.png?v=1756838534",
+    "//cdn.shopify.com/s/files/1/2227/4617/files/2._fruit_punch_left.png?v=1756838543",
+    "//cdn.shopify.com/s/files/1/2227/4617/files/3._fruit_punch_right.png?v=1756838544",
+    "//cdn.shopify.com/s/files/1/2227/4617/files/4.fruit_punch.png?v=1756838542",
+    "//cdn.shopify.com/s/files/1/2227/4617/files/Kid_approved_parent_trusted_drink.webp?v=1760380451"
+  ],
+  "featured_image": "//cdn.shopify.com/s/files/1/2227/4617/files/fruit_punch.png?v=1782379591",
+  "options": [
+    {
+      "name": "Size",
+      "position": 1,
+      "values": [
+        "2 Pack ($4.99/bottle)",
+        "4 Pack ($4.69/bottle)",
+        "6 Pack ($4.39/bottle)",
+        "12 Pack ($3.99/bottle)"
+      ]
+    }
+  ],
+  "url": "/products/new-fruit-punch-20oz-size",
+  "media": [
+    {
+      "alt": null,
+      "id": 30935757095112,
+      "position": 1,
+      "preview_image": {
+        "aspect_ratio": 1,
+        "height": 1080,
+        "width": 1080,
+        "src": "https://cdn.shopify.com/s/files/1/2227/4617/files/fruit_punch.png?v=1782379591"
+      },
+      "aspect_ratio": 1,
+      "height": 1080,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/2227/4617/files/fruit_punch.png?v=1782379591",
+      "width": 1080
+    },
+    {
+      "alt": "real ingredients organic electrolyte solution",
+      "id": 30140921184456,
+      "position": 2,
+      "preview_image": {
+        "aspect_ratio": 1,
+        "height": 2200,
+        "width": 2200,
+        "src": "https://cdn.shopify.com/s/files/1/2227/4617/files/5._fruit_punch_20oz_listing.jpg?v=1756838513"
+      },
+      "aspect_ratio": 1,
+      "height": 2200,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/2227/4617/files/5._fruit_punch_20oz_listing.jpg?v=1756838513",
+      "width": 2200
+    },
+    {
+      "alt": "Fruit Punch BerriLyte compared to other sports drinks",
+      "id": 30140921675976,
+      "position": 3,
+      "preview_image": {
+        "aspect_ratio": 1,
+        "height": 2200,
+        "width": 2200,
+        "src": "https://cdn.shopify.com/s/files/1/2227/4617/files/Fruit_Punch_comparison.png?v=1756838683"
+      },
+      "aspect_ratio": 1,
+      "height": 2200,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/2227/4617/files/Fruit_Punch_comparison.png?v=1756838683",
+      "width": 2200
+    },
+    {
+      "alt": "hydration drink while sick",
+      "id": 30140921512136,
+      "position": 4,
+      "preview_image": {
+        "aspect_ratio": 1,
+        "height": 2200,
+        "width": 2200,
+        "src": "https://cdn.shopify.com/s/files/1/2227/4617/files/16.png?v=1756838683"
+      },
+      "aspect_ratio": 1,
+      "height": 2200,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/2227/4617/files/16.png?v=1756838683",
+      "width": 2200
+    },
+    {
+      "alt": "Fruit Punch  Immunity Boost Drink",
+      "id": 30140921643208,
+      "position": 5,
+      "preview_image": {
+        "aspect_ratio": 1,
+        "height": 2200,
+        "width": 2200,
+        "src": "https://cdn.shopify.com/s/files/1/2227/4617/files/Fruit_2.png?v=1756838534"
+      },
+      "aspect_ratio": 1,
+      "height": 2200,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/2227/4617/files/Fruit_2.png?v=1756838534",
+      "width": 2200
+    },
+    {
+      "alt": "fruit punch hydration drink facts",
+      "id": 30140921872584,
+      "position": 6,
+      "preview_image": {
+        "aspect_ratio": 1,
+        "height": 2200,
+        "width": 2200,
+        "src": "https://cdn.shopify.com/s/files/1/2227/4617/files/2._fruit_punch_left.png?v=1756838543"
+      },
+      "aspect_ratio": 1,
+      "height": 2200,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/2227/4617/files/2._fruit_punch_left.png?v=1756838543",
+      "width": 2200
+    },
+    {
+      "alt": "Berri Lyte Fruit Punch Organic Sports Drink",
+      "id": 30140921938120,
+      "position": 7,
+      "preview_image": {
+        "aspect_ratio": 1,
+        "height": 2200,
+        "width": 2200,
+        "src": "https://cdn.shopify.com/s/files/1/2227/4617/files/3._fruit_punch_right.png?v=1756838544"
+      },
+      "aspect_ratio": 1,
+      "height": 2200,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/2227/4617/files/3._fruit_punch_right.png?v=1756838544",
+      "width": 2200
+    },
+    {
+      "alt": "organic hydration drink fruit punch flavored",
+      "id": 30140921905352,
+      "position": 8,
+      "preview_image": {
+        "aspect_ratio": 1,
+        "height": 2200,
+        "width": 2200,
+        "src": "https://cdn.shopify.com/s/files/1/2227/4617/files/4.fruit_punch.png?v=1756838542"
+      },
+      "aspect_ratio": 1,
+      "height": 2200,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/2227/4617/files/4.fruit_punch.png?v=1756838542",
+      "width": 2200
+    },
+    {
+      "alt": "kid approved organic electrolyte drink",
+      "id": 30288240246984,
+      "position": 9,
+      "preview_image": {
+        "aspect_ratio": 1,
+        "height": 1000,
+        "width": 1000,
+        "src": "https://cdn.shopify.com/s/files/1/2227/4617/files/Kid_approved_parent_trusted_drink.webp?v=1760380451"
+      },
+      "aspect_ratio": 1,
+      "height": 1000,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/2227/4617/files/Kid_approved_parent_trusted_drink.webp?v=1760380451",
+      "width": 1000
+    }
+  ],
+  "requires_selling_plan": false,
+  "selling_plan_groups": [
+    {
+      "id": "be5676770f7a2a402f39044871b9ae3b86c22e15",
+      "name": "Subscribe and save",
+      "options": [
+        {
+          "name": "Delivery frequency",
+          "position": 1,
+          "values": [
+            "1 Week",
+            "2 Weeks",
+            "3 Weeks",
+            "4 Weeks",
+            "5 Weeks",
+            "6 Weeks",
+            "7 Weeks",
+            "8 Weeks"
+          ]
+        }
+      ],
+      "selling_plans": [
+        {
+          "id": 33917141192,
+          "name": "1 Week",
+          "description": null,
+          "options": [
+            {
+              "name": "Delivery frequency",
+              "position": 1,
+              "value": "1 Week"
+            }
+          ],
+          "recurring_deliveries": true,
+          "price_adjustments": [
+            {
+              "order_count": null,
+              "position": 1,
+              "value_type": "percentage",
+              "value": 10
+            }
+          ]
+        },
+        {
+          "id": 33917173960,
+          "name": "2 Weeks",
+          "description": null,
+          "options": [
+            {
+              "name": "Delivery frequency",
+              "position": 1,
+              "value": "2 Weeks"
+            }
+          ],
+          "recurring_deliveries": true,
+          "price_adjustments": [
+            {
+              "order_count": null,
+              "position": 1,
+              "value_type": "percentage",
+              "value": 10
+            }
+          ]
+        },
+        {
+          "id": 33917206728,
+          "name": "3 Weeks",
+          "description": null,
+          "options": [
+            {
+              "name": "Delivery frequency",
+              "position": 1,
+              "value": "3 Weeks"
+            }
+          ],
+          "recurring_deliveries": true,
+          "price_adjustments": [
+            {
+              "order_count": null,
+              "position": 1,
+              "value_type": "percentage",
+              "value": 10
+            }
+          ]
+        },
+        {
+          "id": 33917239496,
+          "name": "4 Weeks",
+          "description": null,
+          "options": [
+            {
+              "name": "Delivery frequency",
+              "position": 1,
+              "value": "4 Weeks"
+            }
+          ],
+          "recurring_deliveries": true,
+          "price_adjustments": [
+            {
+              "order_count": null,
+              "position": 1,
+              "value_type": "percentage",
+              "value": 10
+            }
+          ]
+        },
+        {
+          "id": 33917272264,
+          "name": "5 Weeks",
+          "description": null,
+          "options": [
+            {
+              "name": "Delivery frequency",
+              "position": 1,
+              "value": "5 Weeks"
+            }
+          ],
+          "recurring_deliveries": true,
+          "price_adjustments": [
+            {
+              "order_count": null,
+              "position": 1,
+              "value_type": "percentage",
+              "value": 10
+            }
+          ]
+        },
+        {
+          "id": 33917305032,
+          "name": "6 Weeks",
+          "description": null,
+          "options": [
+            {
+              "name": "Delivery frequency",
+              "position": 1,
+              "value": "6 Weeks"
+            }
+          ],
+          "recurring_deliveries": true,
+          "price_adjustments": [
+            {
+              "order_count": null,
+              "position": 1,
+              "value_type": "percentage",
+              "value": 10
+            }
+          ]
+        },
+        {
+          "id": 33917337800,
+          "name": "7 Weeks",
+          "description": null,
+          "options": [
+            {
+              "name": "Delivery frequency",
+              "position": 1,
+              "value": "7 Weeks"
+            }
+          ],
+          "recurring_deliveries": true,
+          "price_adjustments": [
+            {
+              "order_count": null,
+              "position": 1,
+              "value_type": "percentage",
+              "value": 10
+            }
+          ]
+        },
+        {
+          "id": 33917370568,
+          "name": "8 Weeks",
+          "description": null,
+          "options": [
+            {
+              "name": "Delivery frequency",
+              "position": 1,
+              "value": "8 Weeks"
+            }
+          ],
+          "recurring_deliveries": true,
+          "price_adjustments": [
+            {
+              "order_count": null,
+              "position": 1,
+              "value_type": "percentage",
+              "value": 10
+            }
+          ]
+        }
+      ],
+      "app_id": "45008"
+    }
+  ]
+}

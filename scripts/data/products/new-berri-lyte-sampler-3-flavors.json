@@ -1,0 +1,638 @@
+{
+  "id": 8242725880008,
+  "title": "Berri Lyte Sampler (3 Flavors)",
+  "handle": "new-berri-lyte-sampler-3-flavors",
+  "description": "<div class=\"description-tabs tabs\">\n<div class=\"tabs__nav\">\n<div class=\"tabs__nav-item tabs__nav-item--active\">Description</div>\n<div class=\"tabs__nav-item\">Ingredients</div>\n<div class=\"tabs__nav-item\">Nutrition Facts</div>\n</div>\n<div class=\"tabs__items-list\">\n<div class=\"tabs__item tabs__item--active\">\n<p>Cant decide? Try them all! The world’s first plant-based, USDA certified organic oral electrolyte solutions. Sample all our delicious flavors in one sampler pack: Aҫai Berry, Cherry, Coconut and Lemon Lime. </p>\n</div>\n<div class=\"tabs__item\">\n<p><strong>Aҫai Berry: </strong>Filtered Water, Organic Coconut Water, Organic Agave, Organic Acai Flavor, Organic Lemon Juice Concentrate, Organic Vegetable Glycerin, Organic Raspberry Flavor, Sea Salt, Natural Flavors from Plants, Organic Monk Fruit Flavor, Organic Amla Fruit, Organic Sweet Potato Juice, Purple Carrot, Organic Guava, Zinc Gluconate, Organic Maqui Superberries. <strong>Contains: Coconut. </strong></p>\n<p><strong>Cherry</strong>: Filtered Water, Organic Coconut Water, Organic Agave Nectar, Organic Lemon Juice, Organic Vegetable Glycerin, Organic Cherry Flavor, Organic Key Lime Flavor, Sea Salt, Natural Flavors from Plants, Purple Carrot, Organic Monk Fruit Flavor, Organic Amla, Organic Sweet Potato Juice, Organic Guava, Zinc Gluconate, Organic Maqui Berries. <strong>Contains: Coconut.</strong></p>\n<p><strong>Strawberry</strong>: Filtered Water, Organic Coconut Water, Organic Agave Nectar, Organic Lemon Juice, Organic Vegetable Glycerin, Organic Strawberry Flavor, Sea Salt, Natural Flavors from Plants, Purple Carrot, Organic Monk Fruit Flavor, Organic Amla, Organic Sweet Potato Juice, Organic Guava, Zinc Gluconate, Organic Maqui Berries. <strong>Contains: Coconut.</strong></p>\n<p><span style=\"text-decoration: underline;\"><br><br>Note</span>: Sedimentation is normal with natural products. UPDATE ON 9/21/22: We have noticed and are aware of additional sediments in a recent batch of Berri Lyte &amp; Berri Fit. We hired a third party food safety lab to test these sediments and they confirmed they are coconut milk and are safe to consume. Fortunately, the sediments are coming from our coconut water and are not a food safety concern. Our recent coconut water supply contains trace amounts of coconut milk, which contains insoluble fat that is floating to the top. There is also an option to pour out the top of the bottle which will then remove most of the sediments.</p>\n</div>\n<div class=\"tabs__item\"><img alt=\"Berri Lyte Nutrition Facts Acai Berri\" height=\"426\" width=\"423\" src=\"https://cdn.shopify.com/s/files/1/2227/4617/files/Berri-Lyte_NutritionFacts-Acai.jpg?v=1595367801\"></div>\n</div>\n</div>",
+  "published_at": "2025-09-30T11:09:08-07:00",
+  "created_at": "2025-09-30T10:30:18-07:00",
+  "vendor": "Berri Pro",
+  "type": "Beverage",
+  "tags": [],
+  "price": 2298,
+  "price_min": 2298,
+  "price_max": 3999,
+  "available": true,
+  "price_varies": true,
+  "compare_at_price": 5998,
+  "compare_at_price_min": 5998,
+  "compare_at_price_max": 5998,
+  "compare_at_price_varies": false,
+  "variants": [
+    {
+      "id": 44774299664584,
+      "title": "3 Pack ($7.66/bottle)",
+      "option1": "3 Pack ($7.66/bottle)",
+      "option2": null,
+      "option3": null,
+      "sku": "3pkBLSampler",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "name": "Berri Lyte Sampler (3 Flavors) - 3 Pack ($7.66/bottle)",
+      "public_title": "3 Pack ($7.66/bottle)",
+      "options": [
+        "3 Pack ($7.66/bottle)"
+      ],
+      "price": 2298,
+      "weight": 4536,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": null,
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": [
+        {
+          "price_adjustments": [
+            {
+              "position": 1,
+              "price": 2068
+            }
+          ],
+          "price": 2068,
+          "compare_at_price": 2298,
+          "per_delivery_price": 2068,
+          "selling_plan_id": 33917141192,
+          "selling_plan_group_id": "be5676770f7a2a402f39044871b9ae3b86c22e15"
+        },
+        {
+          "price_adjustments": [
+            {
+              "position": 1,
+              "price": 2068
+            }
+          ],
+          "price": 2068,
+          "compare_at_price": 2298,
+          "per_delivery_price": 2068,
+          "selling_plan_id": 33917173960,
+          "selling_plan_group_id": "be5676770f7a2a402f39044871b9ae3b86c22e15"
+        },
+        {
+          "price_adjustments": [
+            {
+              "position": 1,
+              "price": 2068
+            }
+          ],
+          "price": 2068,
+          "compare_at_price": 2298,
+          "per_delivery_price": 2068,
+          "selling_plan_id": 33917206728,
+          "selling_plan_group_id": "be5676770f7a2a402f39044871b9ae3b86c22e15"
+        },
+        {
+          "price_adjustments": [
+            {
+              "position": 1,
+              "price": 2068
+            }
+          ],
+          "price": 2068,
+          "compare_at_price": 2298,
+          "per_delivery_price": 2068,
+          "selling_plan_id": 33917239496,
+          "selling_plan_group_id": "be5676770f7a2a402f39044871b9ae3b86c22e15"
+        },
+        {
+          "price_adjustments": [
+            {
+              "position": 1,
+              "price": 2068
+            }
+          ],
+          "price": 2068,
+          "compare_at_price": 2298,
+          "per_delivery_price": 2068,
+          "selling_plan_id": 33917272264,
+          "selling_plan_group_id": "be5676770f7a2a402f39044871b9ae3b86c22e15"
+        },
+        {
+          "price_adjustments": [
+            {
+              "position": 1,
+              "price": 2068
+            }
+          ],
+          "price": 2068,
+          "compare_at_price": 2298,
+          "per_delivery_price": 2068,
+          "selling_plan_id": 33917305032,
+          "selling_plan_group_id": "be5676770f7a2a402f39044871b9ae3b86c22e15"
+        },
+        {
+          "price_adjustments": [
+            {
+              "position": 1,
+              "price": 2068
+            }
+          ],
+          "price": 2068,
+          "compare_at_price": 2298,
+          "per_delivery_price": 2068,
+          "selling_plan_id": 33917337800,
+          "selling_plan_group_id": "be5676770f7a2a402f39044871b9ae3b86c22e15"
+        },
+        {
+          "price_adjustments": [
+            {
+              "position": 1,
+              "price": 2068
+            }
+          ],
+          "price": 2068,
+          "compare_at_price": 2298,
+          "per_delivery_price": 2068,
+          "selling_plan_id": 33917370568,
+          "selling_plan_group_id": "be5676770f7a2a402f39044871b9ae3b86c22e15"
+        }
+      ]
+    },
+    {
+      "id": 44774299697352,
+      "title": "6 Pack ($6.66/bottle)",
+      "option1": "6 Pack ($6.66/bottle)",
+      "option2": null,
+      "option3": null,
+      "sku": "6pkBLSampler",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "name": "Berri Lyte Sampler (3 Flavors) - 6 Pack ($6.66/bottle)",
+      "public_title": "6 Pack ($6.66/bottle)",
+      "options": [
+        "6 Pack ($6.66/bottle)"
+      ],
+      "price": 3999,
+      "weight": 9072,
+      "compare_at_price": 5998,
+      "inventory_management": "shopify",
+      "barcode": null,
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": [
+        {
+          "price_adjustments": [
+            {
+              "position": 1,
+              "price": 3599
+            }
+          ],
+          "price": 3599,
+          "compare_at_price": 3999,
+          "per_delivery_price": 3599,
+          "selling_plan_id": 33917141192,
+          "selling_plan_group_id": "be5676770f7a2a402f39044871b9ae3b86c22e15"
+        },
+        {
+          "price_adjustments": [
+            {
+              "position": 1,
+              "price": 3599
+            }
+          ],
+          "price": 3599,
+          "compare_at_price": 3999,
+          "per_delivery_price": 3599,
+          "selling_plan_id": 33917173960,
+          "selling_plan_group_id": "be5676770f7a2a402f39044871b9ae3b86c22e15"
+        },
+        {
+          "price_adjustments": [
+            {
+              "position": 1,
+              "price": 3599
+            }
+          ],
+          "price": 3599,
+          "compare_at_price": 3999,
+          "per_delivery_price": 3599,
+          "selling_plan_id": 33917206728,
+          "selling_plan_group_id": "be5676770f7a2a402f39044871b9ae3b86c22e15"
+        },
+        {
+          "price_adjustments": [
+            {
+              "position": 1,
+              "price": 3599
+            }
+          ],
+          "price": 3599,
+          "compare_at_price": 3999,
+          "per_delivery_price": 3599,
+          "selling_plan_id": 33917239496,
+          "selling_plan_group_id": "be5676770f7a2a402f39044871b9ae3b86c22e15"
+        },
+        {
+          "price_adjustments": [
+            {
+              "position": 1,
+              "price": 3599
+            }
+          ],
+          "price": 3599,
+          "compare_at_price": 3999,
+          "per_delivery_price": 3599,
+          "selling_plan_id": 33917272264,
+          "selling_plan_group_id": "be5676770f7a2a402f39044871b9ae3b86c22e15"
+        },
+        {
+          "price_adjustments": [
+            {
+              "position": 1,
+              "price": 3599
+            }
+          ],
+          "price": 3599,
+          "compare_at_price": 3999,
+          "per_delivery_price": 3599,
+          "selling_plan_id": 33917305032,
+          "selling_plan_group_id": "be5676770f7a2a402f39044871b9ae3b86c22e15"
+        },
+        {
+          "price_adjustments": [
+            {
+              "position": 1,
+              "price": 3599
+            }
+          ],
+          "price": 3599,
+          "compare_at_price": 3999,
+          "per_delivery_price": 3599,
+          "selling_plan_id": 33917337800,
+          "selling_plan_group_id": "be5676770f7a2a402f39044871b9ae3b86c22e15"
+        },
+        {
+          "price_adjustments": [
+            {
+              "position": 1,
+              "price": 3599
+            }
+          ],
+          "price": 3599,
+          "compare_at_price": 3999,
+          "per_delivery_price": 3599,
+          "selling_plan_id": 33917370568,
+          "selling_plan_group_id": "be5676770f7a2a402f39044871b9ae3b86c22e15"
+        }
+      ]
+    }
+  ],
+  "images": [
+    "//cdn.shopify.com/s/files/1/2227/4617/files/bl_sampler_3_bottles_1608a558-a8fa-4de0-a50c-2c917868ae02.png?v=1782379561",
+    "//cdn.shopify.com/s/files/1/2227/4617/files/website_assets.png?v=1759255564",
+    "//cdn.shopify.com/s/files/1/2227/4617/files/16.jpg?v=1759255564",
+    "//cdn.shopify.com/s/files/1/2227/4617/files/berri_lyte_sampler_vs_other_drinks.png?v=1759255564",
+    "//cdn.shopify.com/s/files/1/2227/4617/files/15.jpg?v=1759255564",
+    "//cdn.shopify.com/s/files/1/2227/4617/files/Copyofe-Berrilyte_3_8_23_Kaykreative-110-cropped_e7b4ad0b-8980-4d91-b8b3-0d5bac4bbc66.jpg?v=1759255564",
+    "//cdn.shopify.com/s/files/1/2227/4617/files/77BCC531-8B01-419C-9A6F-CC47C7D254C3_cdc258f6-e04f-4f46-a88b-6284730c3eb1.jpg?v=1759255564",
+    "//cdn.shopify.com/s/files/1/2227/4617/files/Copyofe-Berrilyte_3_8_23_Kaykreative-222-cropped_1_86ec87de-11bc-4418-b921-355b3bf971f4.jpg?v=1759255564"
+  ],
+  "featured_image": "//cdn.shopify.com/s/files/1/2227/4617/files/bl_sampler_3_bottles_1608a558-a8fa-4de0-a50c-2c917868ae02.png?v=1782379561",
+  "options": [
+    {
+      "name": "Size",
+      "position": 1,
+      "values": [
+        "3 Pack ($7.66/bottle)",
+        "6 Pack ($6.66/bottle)"
+      ]
+    }
+  ],
+  "url": "/products/new-berri-lyte-sampler-3-flavors",
+  "media": [
+    {
+      "alt": null,
+      "id": 30935756996808,
+      "position": 1,
+      "preview_image": {
+        "aspect_ratio": 1,
+        "height": 1080,
+        "width": 1080,
+        "src": "https://cdn.shopify.com/s/files/1/2227/4617/files/bl_sampler_3_bottles_1608a558-a8fa-4de0-a50c-2c917868ae02.png?v=1782379561"
+      },
+      "aspect_ratio": 1,
+      "height": 1080,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/2227/4617/files/bl_sampler_3_bottles_1608a558-a8fa-4de0-a50c-2c917868ae02.png?v=1782379561",
+      "width": 1080
+    },
+    {
+      "alt": "Real ingredients sports drink",
+      "id": 30252232310984,
+      "position": 2,
+      "preview_image": {
+        "aspect_ratio": 1,
+        "height": 1080,
+        "width": 1080,
+        "src": "https://cdn.shopify.com/s/files/1/2227/4617/files/website_assets.png?v=1759255564"
+      },
+      "aspect_ratio": 1,
+      "height": 1080,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/2227/4617/files/website_assets.png?v=1759255564",
+      "width": 1080
+    },
+    {
+      "alt": "hydration drink while sick",
+      "id": 30252233031880,
+      "position": 3,
+      "preview_image": {
+        "aspect_ratio": 1,
+        "height": 2200,
+        "width": 2200,
+        "src": "https://cdn.shopify.com/s/files/1/2227/4617/files/16.jpg?v=1759255564"
+      },
+      "aspect_ratio": 1,
+      "height": 2200,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/2227/4617/files/16.jpg?v=1759255564",
+      "width": 2200
+    },
+    {
+      "alt": "berri lyte sampler vs other drinks",
+      "id": 30252232376520,
+      "position": 4,
+      "preview_image": {
+        "aspect_ratio": 1,
+        "height": 2200,
+        "width": 2200,
+        "src": "https://cdn.shopify.com/s/files/1/2227/4617/files/berri_lyte_sampler_vs_other_drinks.png?v=1759255564"
+      },
+      "aspect_ratio": 1,
+      "height": 2200,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/2227/4617/files/berri_lyte_sampler_vs_other_drinks.png?v=1759255564",
+      "width": 2200
+    },
+    {
+      "alt": "kid approved electrolyte drink",
+      "id": 30252233064648,
+      "position": 5,
+      "preview_image": {
+        "aspect_ratio": 1,
+        "height": 2200,
+        "width": 2200,
+        "src": "https://cdn.shopify.com/s/files/1/2227/4617/files/15.jpg?v=1759255564"
+      },
+      "aspect_ratio": 1,
+      "height": 2200,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/2227/4617/files/15.jpg?v=1759255564",
+      "width": 2200
+    },
+    {
+      "alt": "mom with daughter and sports drink",
+      "id": 26986822369480,
+      "position": 6,
+      "preview_image": {
+        "aspect_ratio": 1,
+        "height": 1000,
+        "width": 1000,
+        "src": "https://cdn.shopify.com/s/files/1/2227/4617/files/Copyofe-Berrilyte_3_8_23_Kaykreative-110-cropped_e7b4ad0b-8980-4d91-b8b3-0d5bac4bbc66.jpg?v=1759255564"
+      },
+      "aspect_ratio": 1,
+      "height": 1000,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/2227/4617/files/Copyofe-Berrilyte_3_8_23_Kaykreative-110-cropped_e7b4ad0b-8980-4d91-b8b3-0d5bac4bbc66.jpg?v=1759255564",
+      "width": 1000
+    },
+    {
+      "alt": "girl on scooter with sports drinks",
+      "id": 26986822009032,
+      "position": 7,
+      "preview_image": {
+        "aspect_ratio": 0.751,
+        "height": 959,
+        "width": 720,
+        "src": "https://cdn.shopify.com/s/files/1/2227/4617/files/77BCC531-8B01-419C-9A6F-CC47C7D254C3_cdc258f6-e04f-4f46-a88b-6284730c3eb1.jpg?v=1759255564"
+      },
+      "aspect_ratio": 0.751,
+      "height": 959,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/2227/4617/files/77BCC531-8B01-419C-9A6F-CC47C7D254C3_cdc258f6-e04f-4f46-a88b-6284730c3eb1.jpg?v=1759255564",
+      "width": 720
+    },
+    {
+      "alt": "mom with daughter and sports drink",
+      "id": 26986822041800,
+      "position": 8,
+      "preview_image": {
+        "aspect_ratio": 1,
+        "height": 1000,
+        "width": 1000,
+        "src": "https://cdn.shopify.com/s/files/1/2227/4617/files/Copyofe-Berrilyte_3_8_23_Kaykreative-222-cropped_1_86ec87de-11bc-4418-b921-355b3bf971f4.jpg?v=1759255564"
+      },
+      "aspect_ratio": 1,
+      "height": 1000,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/2227/4617/files/Copyofe-Berrilyte_3_8_23_Kaykreative-222-cropped_1_86ec87de-11bc-4418-b921-355b3bf971f4.jpg?v=1759255564",
+      "width": 1000
+    }
+  ],
+  "requires_selling_plan": false,
+  "selling_plan_groups": [
+    {
+      "id": "be5676770f7a2a402f39044871b9ae3b86c22e15",
+      "name": "Subscribe and save",
+      "options": [
+        {
+          "name": "Delivery frequency",
+          "position": 1,
+          "values": [
+            "1 Week",
+            "2 Weeks",
+            "3 Weeks",
+            "4 Weeks",
+            "5 Weeks",
+            "6 Weeks",
+            "7 Weeks",
+            "8 Weeks"
+          ]
+        }
+      ],
+      "selling_plans": [
+        {
+          "id": 33917141192,
+          "name": "1 Week",
+          "description": null,
+          "options": [
+            {
+              "name": "Delivery frequency",
+              "position": 1,
+              "value": "1 Week"
+            }
+          ],
+          "recurring_deliveries": true,
+          "price_adjustments": [
+            {
+              "order_count": null,
+              "position": 1,
+              "value_type": "percentage",
+              "value": 10
+            }
+          ]
+        },
+        {
+          "id": 33917173960,
+          "name": "2 Weeks",
+          "description": null,
+          "options": [
+            {
+              "name": "Delivery frequency",
+              "position": 1,
+              "value": "2 Weeks"
+            }
+          ],
+          "recurring_deliveries": true,
+          "price_adjustments": [
+            {
+              "order_count": null,
+              "position": 1,
+              "value_type": "percentage",
+              "value": 10
+            }
+          ]
+        },
+        {
+          "id": 33917206728,
+          "name": "3 Weeks",
+          "description": null,
+          "options": [
+            {
+              "name": "Delivery frequency",
+              "position": 1,
+              "value": "3 Weeks"
+            }
+          ],
+          "recurring_deliveries": true,
+          "price_adjustments": [
+            {
+              "order_count": null,
+              "position": 1,
+              "value_type": "percentage",
+              "value": 10
+            }
+          ]
+        },
+        {
+          "id": 33917239496,
+          "name": "4 Weeks",
+          "description": null,
+          "options": [
+            {
+              "name": "Delivery frequency",
+              "position": 1,
+              "value": "4 Weeks"
+            }
+          ],
+          "recurring_deliveries": true,
+          "price_adjustments": [
+            {
+              "order_count": null,
+              "position": 1,
+              "value_type": "percentage",
+              "value": 10
+            }
+          ]
+        },
+        {
+          "id": 33917272264,
+          "name": "5 Weeks",
+          "description": null,
+          "options": [
+            {
+              "name": "Delivery frequency",
+              "position": 1,
+              "value": "5 Weeks"
+            }
+          ],
+          "recurring_deliveries": true,
+          "price_adjustments": [
+            {
+              "order_count": null,
+              "position": 1,
+              "value_type": "percentage",
+              "value": 10
+            }
+          ]
+        },
+        {
+          "id": 33917305032,
+          "name": "6 Weeks",
+          "description": null,
+          "options": [
+            {
+              "name": "Delivery frequency",
+              "position": 1,
+              "value": "6 Weeks"
+            }
+          ],
+          "recurring_deliveries": true,
+          "price_adjustments": [
+            {
+              "order_count": null,
+              "position": 1,
+              "value_type": "percentage",
+              "value": 10
+            }
+          ]
+        },
+        {
+          "id": 33917337800,
+          "name": "7 Weeks",
+          "description": null,
+          "options": [
+            {
+              "name": "Delivery frequency",
+              "position": 1,
+              "value": "7 Weeks"
+            }
+          ],
+          "recurring_deliveries": true,
+          "price_adjustments": [
+            {
+              "order_count": null,
+              "position": 1,
+              "value_type": "percentage",
+              "value": 10
+            }
+          ]
+        },
+        {
+          "id": 33917370568,
+          "name": "8 Weeks",
+          "description": null,
+          "options": [
+            {
+              "name": "Delivery frequency",
+              "position": 1,
+              "value": "8 Weeks"
+            }
+          ],
+          "recurring_deliveries": true,
+          "price_adjustments": [
+            {
+              "order_count": null,
+              "position": 1,
+              "value_type": "percentage",
+              "value": 10
+            }
+          ]
+        }
+      ],
+      "app_id": "45008"
+    }
+  ]
+}

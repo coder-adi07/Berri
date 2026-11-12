@@ -1,0 +1,859 @@
+{
+  "id": 7507796000968,
+  "title": "Strawberry",
+  "handle": "strawberry",
+  "description": "<div class=\"description-tabs tabs\">\n<div class=\"tabs__nav\">\n<div class=\"tabs__nav-item tabs__nav-item--active\">Description</div>\n<div class=\"tabs__nav-item\">Ingredients</div>\n<div class=\"tabs__nav-item\">Nutrition Facts</div>\n</div>\n<div class=\"tabs__items-list\">\n<div class=\"tabs__item tabs__item--active\">\n<p>Try the sweet, fruity, juicy taste of organic strawberry. Berri Lyte is loaded with powerful nutrients and antioxidants. Made with flavorful ingredients found in nature. Formula proven for effective hydration plus fluid and electrolyte restoration.</p>\n</div>\n<div class=\"tabs__item\">\n<p><meta charset=\"utf-8\"><span>Filtered Water, Organic Coconut Water, Organic Agave Nectar, Organic Lemon Juice, Organic Vegetable Glycerin, Organic Strawberry Flavor, Sea Salt, Natural Flavors from Plants, Purple Carrot, Organic Monk Fruit Flavor, Organic Amla, Organic Sweet Potato Juice, Organic Guava, Zinc Gluconate, Organic Maqui Berries. </span><strong>Contains: Coconut.</strong></p>\n</div>\n<div class=\"tabs__item\"><img alt=\"\" src=\"https://cdn.shopify.com/s/files/1/2227/4617/files/BerriLyte-Strawberry_NutritionFacts_480x480.png?v=1706826483\"></div>\n</div>\n</div>",
+  "published_at": "2023-02-15T10:01:04-08:00",
+  "created_at": "2023-02-03T08:46:27-08:00",
+  "vendor": "Berri Pro",
+  "type": "Beverage",
+  "tags": [],
+  "price": 1699,
+  "price_min": 1699,
+  "price_max": 7899,
+  "available": true,
+  "price_varies": true,
+  "compare_at_price": 3198,
+  "compare_at_price_min": 3198,
+  "compare_at_price_max": 9594,
+  "compare_at_price_varies": true,
+  "variants": [
+    {
+      "id": 42543586181320,
+      "title": "2 Pack ($8.49/bottle)",
+      "option1": "2 Pack ($8.49/bottle)",
+      "option2": null,
+      "option3": null,
+      "sku": "2pkBLStrawberry",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "name": "Strawberry - 2 Pack ($8.49/bottle)",
+      "public_title": "2 Pack ($8.49/bottle)",
+      "options": [
+        "2 Pack ($8.49/bottle)"
+      ],
+      "price": 1699,
+      "weight": 2268,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": null,
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": [
+        {
+          "price_adjustments": [
+            {
+              "position": 1,
+              "price": 1529
+            }
+          ],
+          "price": 1529,
+          "compare_at_price": 1699,
+          "per_delivery_price": 1529,
+          "selling_plan_id": 33917141192,
+          "selling_plan_group_id": "be5676770f7a2a402f39044871b9ae3b86c22e15"
+        },
+        {
+          "price_adjustments": [
+            {
+              "position": 1,
+              "price": 1529
+            }
+          ],
+          "price": 1529,
+          "compare_at_price": 1699,
+          "per_delivery_price": 1529,
+          "selling_plan_id": 33917173960,
+          "selling_plan_group_id": "be5676770f7a2a402f39044871b9ae3b86c22e15"
+        },
+        {
+          "price_adjustments": [
+            {
+              "position": 1,
+              "price": 1529
+            }
+          ],
+          "price": 1529,
+          "compare_at_price": 1699,
+          "per_delivery_price": 1529,
+          "selling_plan_id": 33917206728,
+          "selling_plan_group_id": "be5676770f7a2a402f39044871b9ae3b86c22e15"
+        },
+        {
+          "price_adjustments": [
+            {
+              "position": 1,
+              "price": 1529
+            }
+          ],
+          "price": 1529,
+          "compare_at_price": 1699,
+          "per_delivery_price": 1529,
+          "selling_plan_id": 33917239496,
+          "selling_plan_group_id": "be5676770f7a2a402f39044871b9ae3b86c22e15"
+        },
+        {
+          "price_adjustments": [
+            {
+              "position": 1,
+              "price": 1529
+            }
+          ],
+          "price": 1529,
+          "compare_at_price": 1699,
+          "per_delivery_price": 1529,
+          "selling_plan_id": 33917272264,
+          "selling_plan_group_id": "be5676770f7a2a402f39044871b9ae3b86c22e15"
+        },
+        {
+          "price_adjustments": [
+            {
+              "position": 1,
+              "price": 1529
+            }
+          ],
+          "price": 1529,
+          "compare_at_price": 1699,
+          "per_delivery_price": 1529,
+          "selling_plan_id": 33917305032,
+          "selling_plan_group_id": "be5676770f7a2a402f39044871b9ae3b86c22e15"
+        },
+        {
+          "price_adjustments": [
+            {
+              "position": 1,
+              "price": 1529
+            }
+          ],
+          "price": 1529,
+          "compare_at_price": 1699,
+          "per_delivery_price": 1529,
+          "selling_plan_id": 33917337800,
+          "selling_plan_group_id": "be5676770f7a2a402f39044871b9ae3b86c22e15"
+        },
+        {
+          "price_adjustments": [
+            {
+              "position": 1,
+              "price": 1529
+            }
+          ],
+          "price": 1529,
+          "compare_at_price": 1699,
+          "per_delivery_price": 1529,
+          "selling_plan_id": 33917370568,
+          "selling_plan_group_id": "be5676770f7a2a402f39044871b9ae3b86c22e15"
+        }
+      ]
+    },
+    {
+      "id": 42543586214088,
+      "title": "4 Pack ($7.61/bottle)",
+      "option1": "4 Pack ($7.61/bottle)",
+      "option2": null,
+      "option3": null,
+      "sku": "4pkBLStrawberry",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "name": "Strawberry - 4 Pack ($7.61/bottle)",
+      "public_title": "4 Pack ($7.61/bottle)",
+      "options": [
+        "4 Pack ($7.61/bottle)"
+      ],
+      "price": 3044,
+      "weight": 4536,
+      "compare_at_price": 3198,
+      "inventory_management": "shopify",
+      "barcode": null,
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": [
+        {
+          "price_adjustments": [
+            {
+              "position": 1,
+              "price": 2740
+            }
+          ],
+          "price": 2740,
+          "compare_at_price": 3044,
+          "per_delivery_price": 2740,
+          "selling_plan_id": 33917141192,
+          "selling_plan_group_id": "be5676770f7a2a402f39044871b9ae3b86c22e15"
+        },
+        {
+          "price_adjustments": [
+            {
+              "position": 1,
+              "price": 2740
+            }
+          ],
+          "price": 2740,
+          "compare_at_price": 3044,
+          "per_delivery_price": 2740,
+          "selling_plan_id": 33917173960,
+          "selling_plan_group_id": "be5676770f7a2a402f39044871b9ae3b86c22e15"
+        },
+        {
+          "price_adjustments": [
+            {
+              "position": 1,
+              "price": 2740
+            }
+          ],
+          "price": 2740,
+          "compare_at_price": 3044,
+          "per_delivery_price": 2740,
+          "selling_plan_id": 33917206728,
+          "selling_plan_group_id": "be5676770f7a2a402f39044871b9ae3b86c22e15"
+        },
+        {
+          "price_adjustments": [
+            {
+              "position": 1,
+              "price": 2740
+            }
+          ],
+          "price": 2740,
+          "compare_at_price": 3044,
+          "per_delivery_price": 2740,
+          "selling_plan_id": 33917239496,
+          "selling_plan_group_id": "be5676770f7a2a402f39044871b9ae3b86c22e15"
+        },
+        {
+          "price_adjustments": [
+            {
+              "position": 1,
+              "price": 2740
+            }
+          ],
+          "price": 2740,
+          "compare_at_price": 3044,
+          "per_delivery_price": 2740,
+          "selling_plan_id": 33917272264,
+          "selling_plan_group_id": "be5676770f7a2a402f39044871b9ae3b86c22e15"
+        },
+        {
+          "price_adjustments": [
+            {
+              "position": 1,
+              "price": 2740
+            }
+          ],
+          "price": 2740,
+          "compare_at_price": 3044,
+          "per_delivery_price": 2740,
+          "selling_plan_id": 33917305032,
+          "selling_plan_group_id": "be5676770f7a2a402f39044871b9ae3b86c22e15"
+        },
+        {
+          "price_adjustments": [
+            {
+              "position": 1,
+              "price": 2740
+            }
+          ],
+          "price": 2740,
+          "compare_at_price": 3044,
+          "per_delivery_price": 2740,
+          "selling_plan_id": 33917337800,
+          "selling_plan_group_id": "be5676770f7a2a402f39044871b9ae3b86c22e15"
+        },
+        {
+          "price_adjustments": [
+            {
+              "position": 1,
+              "price": 2740
+            }
+          ],
+          "price": 2740,
+          "compare_at_price": 3044,
+          "per_delivery_price": 2740,
+          "selling_plan_id": 33917370568,
+          "selling_plan_group_id": "be5676770f7a2a402f39044871b9ae3b86c22e15"
+        }
+      ]
+    },
+    {
+      "id": 42543586246856,
+      "title": "6 Pack ($6.99/bottle)",
+      "option1": "6 Pack ($6.99/bottle)",
+      "option2": null,
+      "option3": null,
+      "sku": "6pkBLStrawberry",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "name": "Strawberry - 6 Pack ($6.99/bottle)",
+      "public_title": "6 Pack ($6.99/bottle)",
+      "options": [
+        "6 Pack ($6.99/bottle)"
+      ],
+      "price": 4199,
+      "weight": 6804,
+      "compare_at_price": 4797,
+      "inventory_management": "shopify",
+      "barcode": "10860000692202",
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": [
+        {
+          "price_adjustments": [
+            {
+              "position": 1,
+              "price": 3779
+            }
+          ],
+          "price": 3779,
+          "compare_at_price": 4199,
+          "per_delivery_price": 3779,
+          "selling_plan_id": 33917141192,
+          "selling_plan_group_id": "be5676770f7a2a402f39044871b9ae3b86c22e15"
+        },
+        {
+          "price_adjustments": [
+            {
+              "position": 1,
+              "price": 3779
+            }
+          ],
+          "price": 3779,
+          "compare_at_price": 4199,
+          "per_delivery_price": 3779,
+          "selling_plan_id": 33917173960,
+          "selling_plan_group_id": "be5676770f7a2a402f39044871b9ae3b86c22e15"
+        },
+        {
+          "price_adjustments": [
+            {
+              "position": 1,
+              "price": 3779
+            }
+          ],
+          "price": 3779,
+          "compare_at_price": 4199,
+          "per_delivery_price": 3779,
+          "selling_plan_id": 33917206728,
+          "selling_plan_group_id": "be5676770f7a2a402f39044871b9ae3b86c22e15"
+        },
+        {
+          "price_adjustments": [
+            {
+              "position": 1,
+              "price": 3779
+            }
+          ],
+          "price": 3779,
+          "compare_at_price": 4199,
+          "per_delivery_price": 3779,
+          "selling_plan_id": 33917239496,
+          "selling_plan_group_id": "be5676770f7a2a402f39044871b9ae3b86c22e15"
+        },
+        {
+          "price_adjustments": [
+            {
+              "position": 1,
+              "price": 3779
+            }
+          ],
+          "price": 3779,
+          "compare_at_price": 4199,
+          "per_delivery_price": 3779,
+          "selling_plan_id": 33917272264,
+          "selling_plan_group_id": "be5676770f7a2a402f39044871b9ae3b86c22e15"
+        },
+        {
+          "price_adjustments": [
+            {
+              "position": 1,
+              "price": 3779
+            }
+          ],
+          "price": 3779,
+          "compare_at_price": 4199,
+          "per_delivery_price": 3779,
+          "selling_plan_id": 33917305032,
+          "selling_plan_group_id": "be5676770f7a2a402f39044871b9ae3b86c22e15"
+        },
+        {
+          "price_adjustments": [
+            {
+              "position": 1,
+              "price": 3779
+            }
+          ],
+          "price": 3779,
+          "compare_at_price": 4199,
+          "per_delivery_price": 3779,
+          "selling_plan_id": 33917337800,
+          "selling_plan_group_id": "be5676770f7a2a402f39044871b9ae3b86c22e15"
+        },
+        {
+          "price_adjustments": [
+            {
+              "position": 1,
+              "price": 3779
+            }
+          ],
+          "price": 3779,
+          "compare_at_price": 4199,
+          "per_delivery_price": 3779,
+          "selling_plan_id": 33917370568,
+          "selling_plan_group_id": "be5676770f7a2a402f39044871b9ae3b86c22e15"
+        }
+      ]
+    },
+    {
+      "id": 42649991643336,
+      "title": "12 Pack ($6.58/bottle)",
+      "option1": "12 Pack ($6.58/bottle)",
+      "option2": null,
+      "option3": null,
+      "sku": "12pkBLStrawberry",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "name": "Strawberry - 12 Pack ($6.58/bottle)",
+      "public_title": "12 Pack ($6.58/bottle)",
+      "options": [
+        "12 Pack ($6.58/bottle)"
+      ],
+      "price": 7899,
+      "weight": 9072,
+      "compare_at_price": 9594,
+      "inventory_management": "shopify",
+      "barcode": null,
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": [
+        {
+          "price_adjustments": [
+            {
+              "position": 1,
+              "price": 7109
+            }
+          ],
+          "price": 7109,
+          "compare_at_price": 7899,
+          "per_delivery_price": 7109,
+          "selling_plan_id": 33917141192,
+          "selling_plan_group_id": "be5676770f7a2a402f39044871b9ae3b86c22e15"
+        },
+        {
+          "price_adjustments": [
+            {
+              "position": 1,
+              "price": 7109
+            }
+          ],
+          "price": 7109,
+          "compare_at_price": 7899,
+          "per_delivery_price": 7109,
+          "selling_plan_id": 33917173960,
+          "selling_plan_group_id": "be5676770f7a2a402f39044871b9ae3b86c22e15"
+        },
+        {
+          "price_adjustments": [
+            {
+              "position": 1,
+              "price": 7109
+            }
+          ],
+          "price": 7109,
+          "compare_at_price": 7899,
+          "per_delivery_price": 7109,
+          "selling_plan_id": 33917206728,
+          "selling_plan_group_id": "be5676770f7a2a402f39044871b9ae3b86c22e15"
+        },
+        {
+          "price_adjustments": [
+            {
+              "position": 1,
+              "price": 7109
+            }
+          ],
+          "price": 7109,
+          "compare_at_price": 7899,
+          "per_delivery_price": 7109,
+          "selling_plan_id": 33917239496,
+          "selling_plan_group_id": "be5676770f7a2a402f39044871b9ae3b86c22e15"
+        },
+        {
+          "price_adjustments": [
+            {
+              "position": 1,
+              "price": 7109
+            }
+          ],
+          "price": 7109,
+          "compare_at_price": 7899,
+          "per_delivery_price": 7109,
+          "selling_plan_id": 33917272264,
+          "selling_plan_group_id": "be5676770f7a2a402f39044871b9ae3b86c22e15"
+        },
+        {
+          "price_adjustments": [
+            {
+              "position": 1,
+              "price": 7109
+            }
+          ],
+          "price": 7109,
+          "compare_at_price": 7899,
+          "per_delivery_price": 7109,
+          "selling_plan_id": 33917305032,
+          "selling_plan_group_id": "be5676770f7a2a402f39044871b9ae3b86c22e15"
+        },
+        {
+          "price_adjustments": [
+            {
+              "position": 1,
+              "price": 7109
+            }
+          ],
+          "price": 7109,
+          "compare_at_price": 7899,
+          "per_delivery_price": 7109,
+          "selling_plan_id": 33917337800,
+          "selling_plan_group_id": "be5676770f7a2a402f39044871b9ae3b86c22e15"
+        },
+        {
+          "price_adjustments": [
+            {
+              "position": 1,
+              "price": 7109
+            }
+          ],
+          "price": 7109,
+          "compare_at_price": 7899,
+          "per_delivery_price": 7109,
+          "selling_plan_id": 33917370568,
+          "selling_plan_group_id": "be5676770f7a2a402f39044871b9ae3b86c22e15"
+        }
+      ]
+    }
+  ],
+  "images": [
+    "//cdn.shopify.com/s/files/1/2227/4617/files/strawberry_55498385-cb65-49fd-8b4e-9974da951ea7.png?v=1782379712",
+    "//cdn.shopify.com/s/files/1/2227/4617/files/Copyofe-Berrilyte_3_8_23_Kaykreative-110-cropped_276ea6f9-90f5-44be-a91e-7363653e2731.jpg?v=1745014794",
+    "//cdn.shopify.com/s/files/1/2227/4617/files/e-Berrilyte_3_8_23_Kaykreative-36-cropped.jpg?v=1722535283",
+    "//cdn.shopify.com/s/files/1/2227/4617/files/Copyofe-Berrilyte_3_8_23_Kaykreative-222-cropped_1_72a73f7e-4be2-4548-8322-200c44f73b19.jpg?v=1722535283",
+    "//cdn.shopify.com/s/files/1/2227/4617/files/WhyBL_cb543ef8-d077-4830-be59-b72af4c7e8b5.png?v=1722535283"
+  ],
+  "featured_image": "//cdn.shopify.com/s/files/1/2227/4617/files/strawberry_55498385-cb65-49fd-8b4e-9974da951ea7.png?v=1782379712",
+  "options": [
+    {
+      "name": "Size",
+      "position": 1,
+      "values": [
+        "2 Pack ($8.49/bottle)",
+        "4 Pack ($7.61/bottle)",
+        "6 Pack ($6.99/bottle)",
+        "12 Pack ($6.58/bottle)"
+      ]
+    }
+  ],
+  "url": "/products/strawberry",
+  "media": [
+    {
+      "alt": null,
+      "id": 30935757324488,
+      "position": 1,
+      "preview_image": {
+        "aspect_ratio": 1,
+        "height": 1080,
+        "width": 1080,
+        "src": "https://cdn.shopify.com/s/files/1/2227/4617/files/strawberry_55498385-cb65-49fd-8b4e-9974da951ea7.png?v=1782379712"
+      },
+      "aspect_ratio": 1,
+      "height": 1080,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/2227/4617/files/strawberry_55498385-cb65-49fd-8b4e-9974da951ea7.png?v=1782379712",
+      "width": 1080
+    },
+    {
+      "alt": "mom with kid enjoying sports drink",
+      "id": 26984943091912,
+      "position": 2,
+      "preview_image": {
+        "aspect_ratio": 1,
+        "height": 1000,
+        "width": 1000,
+        "src": "https://cdn.shopify.com/s/files/1/2227/4617/files/Copyofe-Berrilyte_3_8_23_Kaykreative-110-cropped_276ea6f9-90f5-44be-a91e-7363653e2731.jpg?v=1745014794"
+      },
+      "aspect_ratio": 1,
+      "height": 1000,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/2227/4617/files/Copyofe-Berrilyte_3_8_23_Kaykreative-110-cropped_276ea6f9-90f5-44be-a91e-7363653e2731.jpg?v=1745014794",
+      "width": 1000
+    },
+    {
+      "alt": "young girl holding a hydration drink",
+      "id": 26540834685128,
+      "position": 3,
+      "preview_image": {
+        "aspect_ratio": 1,
+        "height": 1000,
+        "width": 1000,
+        "src": "https://cdn.shopify.com/s/files/1/2227/4617/files/e-Berrilyte_3_8_23_Kaykreative-36-cropped.jpg?v=1722535283"
+      },
+      "aspect_ratio": 1,
+      "height": 1000,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/2227/4617/files/e-Berrilyte_3_8_23_Kaykreative-36-cropped.jpg?v=1722535283",
+      "width": 1000
+    },
+    {
+      "alt": "mom with kids on the couch with sports drink",
+      "id": 26984942502088,
+      "position": 4,
+      "preview_image": {
+        "aspect_ratio": 1,
+        "height": 1000,
+        "width": 1000,
+        "src": "https://cdn.shopify.com/s/files/1/2227/4617/files/Copyofe-Berrilyte_3_8_23_Kaykreative-222-cropped_1_72a73f7e-4be2-4548-8322-200c44f73b19.jpg?v=1722535283"
+      },
+      "aspect_ratio": 1,
+      "height": 1000,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/2227/4617/files/Copyofe-Berrilyte_3_8_23_Kaykreative-222-cropped_1_72a73f7e-4be2-4548-8322-200c44f73b19.jpg?v=1722535283",
+      "width": 1000
+    },
+    {
+      "alt": "why berrylyte",
+      "id": 26984942371016,
+      "position": 5,
+      "preview_image": {
+        "aspect_ratio": 1,
+        "height": 1080,
+        "width": 1080,
+        "src": "https://cdn.shopify.com/s/files/1/2227/4617/files/WhyBL_cb543ef8-d077-4830-be59-b72af4c7e8b5.png?v=1722535283"
+      },
+      "aspect_ratio": 1,
+      "height": 1080,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/2227/4617/files/WhyBL_cb543ef8-d077-4830-be59-b72af4c7e8b5.png?v=1722535283",
+      "width": 1080
+    }
+  ],
+  "requires_selling_plan": false,
+  "selling_plan_groups": [
+    {
+      "id": "be5676770f7a2a402f39044871b9ae3b86c22e15",
+      "name": "Subscribe and save",
+      "options": [
+        {
+          "name": "Delivery frequency",
+          "position": 1,
+          "values": [
+            "1 Week",
+            "2 Weeks",
+            "3 Weeks",
+            "4 Weeks",
+            "5 Weeks",
+            "6 Weeks",
+            "7 Weeks",
+            "8 Weeks"
+          ]
+        }
+      ],
+      "selling_plans": [
+        {
+          "id": 33917141192,
+          "name": "1 Week",
+          "description": null,
+          "options": [
+            {
+              "name": "Delivery frequency",
+              "position": 1,
+              "value": "1 Week"
+            }
+          ],
+          "recurring_deliveries": true,
+          "price_adjustments": [
+            {
+              "order_count": null,
+              "position": 1,
+              "value_type": "percentage",
+              "value": 10
+            }
+          ]
+        },
+        {
+          "id": 33917173960,
+          "name": "2 Weeks",
+          "description": null,
+          "options": [
+            {
+              "name": "Delivery frequency",
+              "position": 1,
+              "value": "2 Weeks"
+            }
+          ],
+          "recurring_deliveries": true,
+          "price_adjustments": [
+            {
+              "order_count": null,
+              "position": 1,
+              "value_type": "percentage",
+              "value": 10
+            }
+          ]
+        },
+        {
+          "id": 33917206728,
+          "name": "3 Weeks",
+          "description": null,
+          "options": [
+            {
+              "name": "Delivery frequency",
+              "position": 1,
+              "value": "3 Weeks"
+            }
+          ],
+          "recurring_deliveries": true,
+          "price_adjustments": [
+            {
+              "order_count": null,
+              "position": 1,
+              "value_type": "percentage",
+              "value": 10
+            }
+          ]
+        },
+        {
+          "id": 33917239496,
+          "name": "4 Weeks",
+          "description": null,
+          "options": [
+            {
+              "name": "Delivery frequency",
+              "position": 1,
+              "value": "4 Weeks"
+            }
+          ],
+          "recurring_deliveries": true,
+          "price_adjustments": [
+            {
+              "order_count": null,
+              "position": 1,
+              "value_type": "percentage",
+              "value": 10
+            }
+          ]
+        },
+        {
+          "id": 33917272264,
+          "name": "5 Weeks",
+          "description": null,
+          "options": [
+            {
+              "name": "Delivery frequency",
+              "position": 1,
+              "value": "5 Weeks"
+            }
+          ],
+          "recurring_deliveries": true,
+          "price_adjustments": [
+            {
+              "order_count": null,
+              "position": 1,
+              "value_type": "percentage",
+              "value": 10
+            }
+          ]
+        },
+        {
+          "id": 33917305032,
+          "name": "6 Weeks",
+          "description": null,
+          "options": [
+            {
+              "name": "Delivery frequency",
+              "position": 1,
+              "value": "6 Weeks"
+            }
+          ],
+          "recurring_deliveries": true,
+          "price_adjustments": [
+            {
+              "order_count": null,
+              "position": 1,
+              "value_type": "percentage",
+              "value": 10
+            }
+          ]
+        },
+        {
+          "id": 33917337800,
+          "name": "7 Weeks",
+          "description": null,
+          "options": [
+            {
+              "name": "Delivery frequency",
+              "position": 1,
+              "value": "7 Weeks"
+            }
+          ],
+          "recurring_deliveries": true,
+          "price_adjustments": [
+            {
+              "order_count": null,
+              "position": 1,
+              "value_type": "percentage",
+              "value": 10
+            }
+          ]
+        },
+        {
+          "id": 33917370568,
+          "name": "8 Weeks",
+          "description": null,
+          "options": [
+            {
+              "name": "Delivery frequency",
+              "position": 1,
+              "value": "8 Weeks"
+            }
+          ],
+          "recurring_deliveries": true,
+          "price_adjustments": [
+            {
+              "order_count": null,
+              "position": 1,
+              "value_type": "percentage",
+              "value": 10
+            }
+          ]
+        }
+      ],
+      "app_id": "45008"
+    }
+  ]
+}

@@ -1,0 +1,332 @@
+{
+  "id": 8260975198408,
+  "title": "NEW! Acai Berry - 20oz Size",
+  "handle": "new-acai-berry-20oz-size",
+  "description": "<div class=\"tabs__nav\">\n<div class=\"tabs__nav-item tabs__nav-item--active\">\n<meta charset=\"utf-8\">\n<div class=\"description-tabs tabs\">\n<div class=\"tabs__nav\">\n<div class=\"tabs__nav-item tabs__nav-item--active\">Description</div>\n<div class=\"tabs__nav-item\">Ingredients</div>\n<div class=\"tabs__nav-item\">Nutrition Facts</div>\n</div>\n<div class=\"tabs__items-list\">\n<div class=\"tabs__item tabs__item--active\">\n<p>A deep, rich flavor that’s just as rejuvenating as the energy and nutrition it provides. This superberry is jam packed with essential nutrients and antioxidants.</p>\n</div>\n<div class=\"tabs__item\">\n<p>Filtered Water, Organic Coconut Water, Organic Agave, Organic Acai Flavor, Organic Lemon Juice Concentrate, Organic Vegetable Glycerin, Organic Raspberry Flavor, Sea Salt, Natural Flavors from Plants, Organic Monk Fruit Flavor, Organic Amla Fruit, Organic Sweet Potato Juice, Purple Carrot, Organic Guava, Zinc Gluconate, Organic Maqui Superberries. <b>Contains: Coconut.</b></p>\n</div>\n<div class=\"tabs__item\"><img alt=\"Berri Lyte Nutrition Facts Acai Berri\" height=\"426\" width=\"423\" src=\"https://cdn.shopify.com/s/files/1/2227/4617/files/Berri-Lyte_NutritionFacts-Acai.jpg?v=1595367801\"></div>\n</div>\n</div>\n</div>\n</div>",
+  "published_at": "2025-12-03T01:18:31-08:00",
+  "created_at": "2025-12-03T00:58:28-08:00",
+  "vendor": "Berri Pro",
+  "type": "Beverage",
+  "tags": [],
+  "price": 998,
+  "price_min": 998,
+  "price_max": 4788,
+  "available": true,
+  "price_varies": true,
+  "compare_at_price": null,
+  "compare_at_price_min": 0,
+  "compare_at_price_max": 0,
+  "compare_at_price_varies": false,
+  "variants": [
+    {
+      "id": 44867012559048,
+      "title": "2 Pack ($4.99/bottle)",
+      "option1": "2 Pack ($4.99/bottle)",
+      "option2": null,
+      "option3": null,
+      "sku": "2pkBL20Acai",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "name": "NEW! Acai Berry - 20oz Size - 2 Pack ($4.99/bottle)",
+      "public_title": "2 Pack ($4.99/bottle)",
+      "options": [
+        "2 Pack ($4.99/bottle)"
+      ],
+      "price": 998,
+      "weight": 3992,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "860012648870",
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44867012591816,
+      "title": "4 Pack ($4.69/bottle)",
+      "option1": "4 Pack ($4.69/bottle)",
+      "option2": null,
+      "option3": null,
+      "sku": "4pkBL20Acai",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "name": "NEW! Acai Berry - 20oz Size - 4 Pack ($4.69/bottle)",
+      "public_title": "4 Pack ($4.69/bottle)",
+      "options": [
+        "4 Pack ($4.69/bottle)"
+      ],
+      "price": 1876,
+      "weight": 3992,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": null,
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44867012624584,
+      "title": "6 Pack ($4.39/bottle)",
+      "option1": "6 Pack ($4.39/bottle)",
+      "option2": null,
+      "option3": null,
+      "sku": "6pkBL20Acai",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "name": "NEW! Acai Berry - 20oz Size - 6 Pack ($4.39/bottle)",
+      "public_title": "6 Pack ($4.39/bottle)",
+      "options": [
+        "6 Pack ($4.39/bottle)"
+      ],
+      "price": 2634,
+      "weight": 3992,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": null,
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44867012657352,
+      "title": "12 Pack ($3.99/bottle)",
+      "option1": "12 Pack ($3.99/bottle)",
+      "option2": null,
+      "option3": null,
+      "sku": "12pkBL20Acai",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "name": "NEW! Acai Berry - 20oz Size - 12 Pack ($3.99/bottle)",
+      "public_title": "12 Pack ($3.99/bottle)",
+      "options": [
+        "12 Pack ($3.99/bottle)"
+      ],
+      "price": 4788,
+      "weight": 3992,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": null,
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    }
+  ],
+  "images": [
+    "//cdn.shopify.com/s/files/1/2227/4617/files/acai_20z_ca9d26ac-8644-4b59-948a-54820c9e442d.png?v=1782379481",
+    "//cdn.shopify.com/s/files/1/2227/4617/files/Acaicomparison.jpg?v=1764753068",
+    "//cdn.shopify.com/s/files/1/2227/4617/files/2.acai33.8right.jpg?v=1764753068",
+    "//cdn.shopify.com/s/files/1/2227/4617/files/3.acaileft.jpg?v=1764753068",
+    "//cdn.shopify.com/s/files/1/2227/4617/files/4.acai.jpg?v=1764753068",
+    "//cdn.shopify.com/s/files/1/2227/4617/files/5.acai20ozlisting.jpg?v=1764753068",
+    "//cdn.shopify.com/s/files/1/2227/4617/files/15_b7fc1586-9c9a-48e0-9737-9ca85c68e6f5.jpg?v=1764753068",
+    "//cdn.shopify.com/s/files/1/2227/4617/files/16_30db514d-7025-4395-a004-9bacf9f00275.jpg?v=1764753068",
+    "//cdn.shopify.com/s/files/1/2227/4617/files/Acai_2.jpg?v=1764753068",
+    "//cdn.shopify.com/s/files/1/2227/4617/files/Acaiflavor.jpg?v=1764752917"
+  ],
+  "featured_image": "//cdn.shopify.com/s/files/1/2227/4617/files/acai_20z_ca9d26ac-8644-4b59-948a-54820c9e442d.png?v=1782379481",
+  "options": [
+    {
+      "name": "Size",
+      "position": 1,
+      "values": [
+        "2 Pack ($4.99/bottle)",
+        "4 Pack ($4.69/bottle)",
+        "6 Pack ($4.39/bottle)",
+        "12 Pack ($3.99/bottle)"
+      ]
+    }
+  ],
+  "url": "/products/new-acai-berry-20oz-size",
+  "media": [
+    {
+      "alt": null,
+      "id": 30935756800200,
+      "position": 1,
+      "preview_image": {
+        "aspect_ratio": 1,
+        "height": 1080,
+        "width": 1080,
+        "src": "https://cdn.shopify.com/s/files/1/2227/4617/files/acai_20z_ca9d26ac-8644-4b59-948a-54820c9e442d.png?v=1782379481"
+      },
+      "aspect_ratio": 1,
+      "height": 1080,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/2227/4617/files/acai_20z_ca9d26ac-8644-4b59-948a-54820c9e442d.png?v=1782379481",
+      "width": 1080
+    },
+    {
+      "alt": null,
+      "id": 30406257934536,
+      "position": 2,
+      "preview_image": {
+        "aspect_ratio": 1,
+        "height": 2200,
+        "width": 2200,
+        "src": "https://cdn.shopify.com/s/files/1/2227/4617/files/Acaicomparison.jpg?v=1764753068"
+      },
+      "aspect_ratio": 1,
+      "height": 2200,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/2227/4617/files/Acaicomparison.jpg?v=1764753068",
+      "width": 2200
+    },
+    {
+      "alt": null,
+      "id": 30406257705160,
+      "position": 3,
+      "preview_image": {
+        "aspect_ratio": 1,
+        "height": 2200,
+        "width": 2200,
+        "src": "https://cdn.shopify.com/s/files/1/2227/4617/files/2.acai33.8right.jpg?v=1764753068"
+      },
+      "aspect_ratio": 1,
+      "height": 2200,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/2227/4617/files/2.acai33.8right.jpg?v=1764753068",
+      "width": 2200
+    },
+    {
+      "alt": null,
+      "id": 30406257737928,
+      "position": 4,
+      "preview_image": {
+        "aspect_ratio": 1,
+        "height": 2200,
+        "width": 2200,
+        "src": "https://cdn.shopify.com/s/files/1/2227/4617/files/3.acaileft.jpg?v=1764753068"
+      },
+      "aspect_ratio": 1,
+      "height": 2200,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/2227/4617/files/3.acaileft.jpg?v=1764753068",
+      "width": 2200
+    },
+    {
+      "alt": null,
+      "id": 30406257770696,
+      "position": 5,
+      "preview_image": {
+        "aspect_ratio": 1,
+        "height": 2200,
+        "width": 2200,
+        "src": "https://cdn.shopify.com/s/files/1/2227/4617/files/4.acai.jpg?v=1764753068"
+      },
+      "aspect_ratio": 1,
+      "height": 2200,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/2227/4617/files/4.acai.jpg?v=1764753068",
+      "width": 2200
+    },
+    {
+      "alt": null,
+      "id": 30406257803464,
+      "position": 6,
+      "preview_image": {
+        "aspect_ratio": 1,
+        "height": 2200,
+        "width": 2200,
+        "src": "https://cdn.shopify.com/s/files/1/2227/4617/files/5.acai20ozlisting.jpg?v=1764753068"
+      },
+      "aspect_ratio": 1,
+      "height": 2200,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/2227/4617/files/5.acai20ozlisting.jpg?v=1764753068",
+      "width": 2200
+    },
+    {
+      "alt": null,
+      "id": 30406257836232,
+      "position": 7,
+      "preview_image": {
+        "aspect_ratio": 1,
+        "height": 2200,
+        "width": 2200,
+        "src": "https://cdn.shopify.com/s/files/1/2227/4617/files/15_b7fc1586-9c9a-48e0-9737-9ca85c68e6f5.jpg?v=1764753068"
+      },
+      "aspect_ratio": 1,
+      "height": 2200,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/2227/4617/files/15_b7fc1586-9c9a-48e0-9737-9ca85c68e6f5.jpg?v=1764753068",
+      "width": 2200
+    },
+    {
+      "alt": null,
+      "id": 30406257869000,
+      "position": 8,
+      "preview_image": {
+        "aspect_ratio": 1,
+        "height": 2200,
+        "width": 2200,
+        "src": "https://cdn.shopify.com/s/files/1/2227/4617/files/16_30db514d-7025-4395-a004-9bacf9f00275.jpg?v=1764753068"
+      },
+      "aspect_ratio": 1,
+      "height": 2200,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/2227/4617/files/16_30db514d-7025-4395-a004-9bacf9f00275.jpg?v=1764753068",
+      "width": 2200
+    },
+    {
+      "alt": null,
+      "id": 30406257901768,
+      "position": 9,
+      "preview_image": {
+        "aspect_ratio": 1,
+        "height": 2200,
+        "width": 2200,
+        "src": "https://cdn.shopify.com/s/files/1/2227/4617/files/Acai_2.jpg?v=1764753068"
+      },
+      "aspect_ratio": 1,
+      "height": 2200,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/2227/4617/files/Acai_2.jpg?v=1764753068",
+      "width": 2200
+    },
+    {
+      "alt": null,
+      "id": 30406257967304,
+      "position": 10,
+      "preview_image": {
+        "aspect_ratio": 1,
+        "height": 2200,
+        "width": 2200,
+        "src": "https://cdn.shopify.com/s/files/1/2227/4617/files/Acaiflavor.jpg?v=1764752917"
+      },
+      "aspect_ratio": 1,
+      "height": 2200,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/2227/4617/files/Acaiflavor.jpg?v=1764752917",
+      "width": 2200
+    }
+  ],
+  "requires_selling_plan": false,
+  "selling_plan_groups": []
+}
